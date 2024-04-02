@@ -27,7 +27,7 @@ Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.  [[arXiv](h
 
 * Fairness without Demographics on Electronic Health Records.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
-*Annual AAAI Conference on Artificial Intelligence (AAAI 2024 SSS on Clinical FMs)*. [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2024%2FSpring_Symposium_Series%2FClinical_FMs%2FAuthors%23your-submissions))]
+*Annual AAAI Conference on Artificial Intelligence 2024 SSS on Clinical FMs*. [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2024%2FSpring_Symposium_Series%2FClinical_FMs%2FAuthors%23your-submissions))]
 
 * GSLB: The Graph Structure Learning Benchmark.  
 Zhixun Li, Liang Wang, Xin Sun, Yifan Luo, Yanqiao Zhu, Dingshuo Chen,  
