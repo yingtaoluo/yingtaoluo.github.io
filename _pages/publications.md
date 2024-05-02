@@ -19,7 +19,7 @@ author_profile: true
 ## Conferences
 
 * Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning.  
-Jannik Deuschel, Caleb N Ellington, __Yingtao Luo__, Benjamin J Lengerich, Pascal Friederich, Eric P Xing.  
+Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, Pascal Friederich, Eric P Xing.  
 *International Conference on Machine Learning (ICML 2024)*. [[arXiv](https://arxiv.org/pdf/2310.07918.pdf)]
 
 * BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition.  
