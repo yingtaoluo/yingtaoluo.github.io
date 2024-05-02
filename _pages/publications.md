@@ -15,15 +15,16 @@ author_profile: true
 <> Presentation at a Workshop  
 [Media] coverage report link  
 
-## Preprints
-
-* Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning.  
-Jannik Deuschel, Caleb N Ellington, Benjamin J Lengerich, __Yingtao Luo__, Pascal Friederich, Eric P Xing.  [[arXiv](https://arxiv.org/pdf/2310.07918.pdf)]  
-
-* BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition.  
-Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.  [[arXiv](https://arxiv.org/pdf/2308.14906.pdf)]
 
 ## Conferences
+
+* Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning.  
+Jannik Deuschel, Caleb N Ellington, __Yingtao Luo__, Benjamin J Lengerich, Pascal Friederich, Eric P Xing.  
+*International Conference on Machine Learning (ICML 2024)*. [[arXiv](https://arxiv.org/pdf/2310.07918.pdf)]
+
+* BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition.  
+Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.  
+*International Conference on Machine Learning (ICML 2024)*. [[arXiv](https://arxiv.org/pdf/2308.14906.pdf)]
 
 * Fairness without Demographics on Electronic Health Records.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
@@ -74,12 +75,4 @@ Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.
 * Deep spatial representation learning of polyamide nanofiltration membranes.  
 Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZhao.  
 *Journal of Membrane Science. <NeurIPS 2020 ML4Molecule>*. [[code](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[Paper](https://doi.org/10.1016/j.memsci.2020.118910)]
-
-## Under Review
-
-* Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting.
-
-* Contrastive Diffusion Loss.
-
-* Sequential recommendation with bidirectional chronological augmentation of transformer
 
