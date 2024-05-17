@@ -69,8 +69,7 @@ Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wa
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  
 __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng,  
 Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.  
-*Research (Flagship Science AAAS Partner Journal)*.  
-*<NeurIPS 2020 ML for Physical Science>*. [[code](http://github.com/yingtaoluo/Probabilistic-density-network)]  [[Paper](https://doi.org/10.34133/2020/8757403)]  [[media (Science)](https://mp.weixin.qq.com/s/8nG3hjKBqzqBrquqL-lhbA)]
+*Research (Flagship Science AAAS Partner Journal). <NeurIPS 2020 ML for Physical Science>*. [[code](http://github.com/yingtaoluo/Probabilistic-density-network)]  [[Paper](https://doi.org/10.34133/2020/8757403)]  [[media (Science)](https://mp.weixin.qq.com/s/8nG3hjKBqzqBrquqL-lhbA)]
   
 * Deep spatial representation learning of polyamide nanofiltration membranes.  
 Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZhao.  
