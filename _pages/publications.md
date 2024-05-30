@@ -20,7 +20,7 @@ author_profile: true
 
 * Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
-*INFORMS Annual Meeting (INFORMS 2024 Contrtibued Presentation)*.
+*INFORMS Annual Meeting 2024 (Contributed Presentation)*.
 
 * Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning.  
 Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, Pascal Friederich, Eric P Xing.  
