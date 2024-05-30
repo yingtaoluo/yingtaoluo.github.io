@@ -20,7 +20,7 @@ author_profile: true
 
 * Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
-*INFORMS Annual Meeting 2024 (Contributed Presentation)*.
+*INFORMS Annual Meeting 2024 [Contributed Presentation]*.
 
 * Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning.  
 Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, Pascal Friederich, Eric P Xing.  
@@ -32,7 +32,7 @@ Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.
 
 * Fairness without Demographics on Electronic Health Records.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
-*AAAI 2024 Spring Symposium Series Clinical Foundation Models (Contributed Talk)*. [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2024%2FSpring_Symposium_Series%2FClinical_FMs%2FAuthors%23your-submissions))]
+*AAAI 2024 SSS Clinical Foundation Models [Contributed Talk]*. [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2024%2FSpring_Symposium_Series%2FClinical_FMs%2FAuthors%23your-submissions))]
 
 * GSLB: The Graph Structure Learning Benchmark.  
 Zhixun Li, Liang Wang, Xin Sun, Yifan Luo, Yanqiao Zhu, Dingshuo Chen,  
