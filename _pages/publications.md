@@ -28,7 +28,7 @@ Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, P
 
 * BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition.  
 Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.  
-*International Conference on Machine Learning (ICML 2024)*. [[arXiv](https://arxiv.org/pdf/2308.14906.pdf)]
+*International Conference on Machine Learning (ICML 2024) [Spotlight Paper]*. [[arXiv](https://arxiv.org/pdf/2308.14906.pdf)]
 
 * Fairness without Demographics on Electronic Health Records.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
