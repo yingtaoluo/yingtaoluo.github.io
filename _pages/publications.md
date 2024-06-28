@@ -24,7 +24,7 @@ __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.
 
 * Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning.  
 Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, Pascal Friederich, Eric P Xing.  
-*International Conference on Machine Learning (ICML 2024)*. [[arXiv](https://arxiv.org/pdf/2310.07918.pdf)]
+*International Conference on Machine Learning (ICML 2024)*. [[code](https://github.com/JADEUSC/contextualized_policy_recovery)] [[arXiv](https://arxiv.org/pdf/2310.07918.pdf)] 
 
 * BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition.  
 Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.  
