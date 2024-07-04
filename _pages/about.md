@@ -14,7 +14,7 @@ My name is Yingtao Luo (Ying-Tao Luo, 罗颖韬). I am a second-year Ph.D. stude
 Truly grateful for all the great people from whom I learn a lot and get a lot of support. 
 
 ## Methodology Interest
-Decision Making: Learning Agent that collaborates with experts to make clinical decisions.  
+Decision Making: Learning agent that collaborates with experts to make clinical decisions.  
 Foundation Model: Solution to critical scientific problems such as single-cell modeling.  
 Bio-Physics Encoding: Understanding of the first-principle human knowledge for AI models.  
 
