@@ -35,11 +35,12 @@ Academic Services
   * NeurIPS DB Track 2024
   * ICLR 2022, 2024
   * TheWebConf 2023
-  * KDD 2023, 2024
+  * KDD 2023, 2024, 2025
   * KDD MILETS 2023, 2024
   * SDM 2024
   * ICML 2023, 2024
   * ICML SynS & ML (2023)
+  * AAAI 2025
   * AAAI Spring Symposium 2024 Clinical Foundation Models
   * PAKDD 2023
   * EDM 2023
