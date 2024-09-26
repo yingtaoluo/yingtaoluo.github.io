@@ -19,7 +19,7 @@ author_profile: true
 ## Conferences
 
 * Your Diffusion Model is Secretly a Noise Classifier and Benefits from Contrastive Training.
-Yunshu Wu, __Yingtao Luo__, Xianghao Kong, Evangelos E. Papalexakis, Greg Ver Steeg
+Yunshu Wu, __Yingtao Luo__, Xianghao Kong, Evangelos E. Papalexakis, Greg Ver Steeg.  
 *Advances in Neural Information Processing Systems 37 (NeurIPS 2024).* [[Paper](https://arxiv.org/pdf/2407.08946)]
 
 * Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation.  
