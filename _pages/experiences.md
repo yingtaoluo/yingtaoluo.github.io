@@ -40,6 +40,7 @@ Academic Services
   * SDM 2024
   * ICML 2023, 2024
   * ICML SynS & ML (2023)
+  * AISTATS 2025
   * AAAI 2025
   * AAAI Spring Symposium 2024 Clinical Foundation Models
   * PAKDD 2023
