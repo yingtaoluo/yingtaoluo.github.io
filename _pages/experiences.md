@@ -31,18 +31,18 @@ Academic Services
 ======
 * Conference PC Member and/or Reviewer:
   * NeurIPS ML4PS (2021-2024) and ML4Mol (2021)
-  * NeurIPS 2022, 2023, 2024
+  * NeurIPS 2022-2024
   * NeurIPS DB Track 2024
-  * ICLR 2022, 2024, 2025
+  * ICLR 2022-2025
   * TheWebConf 2023
-  * KDD 2023, 2024, 2025
-  * KDD MILETS 2023, 2024
+  * KDD 2023-2025
+  * KDD MILETS 2023-2024
   * SDM 2024
-  * ICML 2023, 2024
+  * ICML 2023-2024
   * ICML SynS & ML (2023)
   * AISTATS 2025
   * AAAI 2025
-  * AAAI Spring Symposium 2024 Clinical Foundation Models
+  * AAAI Spring Symposium 2024
   * PAKDD 2023
   * EDM 2023
   * ICCS 2023
@@ -53,7 +53,6 @@ Academic Services
   * IEEE Transactions on Knowledge and Data Engineering
   * IEEE Transactions on Cybernetics
   * Journal of Computer Science and Technology
-  * IEEE Transactions on Neural Networks and Learning Systems
   * Journal of Chemical Theory and Computation
   * IEEE Transactions on Intelligent Vehicles
   * npj Digital Medicine
@@ -61,5 +60,6 @@ Academic Services
   * ACM Professional Member
   * AAAI Member
   * AMIA Member
+  * INFORMS Member
 
   
