@@ -15,13 +15,13 @@ Truly grateful for all the great people from whom I learn a lot and get a lot of
 
 ## Methodology Interest
 Decision Making: Learning agent that collaborates with experts to make clinical decisions.  
-Foundation Model: Solution to critical scientific problems such as single-cell modeling.  
+Foundation Model: Large language model and multimodal model for biomedicine and healthcare.  
 
 ## Domain Interest
 Health, Science (scientific basis for health).
 
 ## Statement
-There are other interesting directions I have tried in the past, but now I am "all in" Interests mentioned above. I am more attracted to real-world impact and how people's lives can be improved directly (one of the reasons I quit physics, alas), while truly enjoying exposing myself to core ML theory. I am generally open to collaboration and enjoy working with talented people I have met so far. 
+I am more attracted to real-world impact and how people's lives can be improved directly (one of the reasons I quit physics, alas), while truly enjoying exposing myself to core ML theory. I am generally open to collaboration and enjoy working with talented people I have met so far. 
 
 ## Skillset
-Mostly about core ML (statistics, convex optimization, graphical model, reinforcement learning, etc.) and coding with Pytorch and CUDA, but also have the pleasure to learn human decision bias and utility theory from Ph.D.-level economics courses to aid my research.
+Mostly about core ML (statistics, convex optimization, graphical model, reinforcement learning, etc.) and coding with Pytorch and CUDA, but also have the pleasure to learn human decision bias, computational medicine, healthcare informatics to aid my research.
