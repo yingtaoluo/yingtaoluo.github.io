@@ -26,6 +26,10 @@ Yunshu Wu, __Yingtao Luo__, Xianghao Kong, Evangelos E. Papalexakis, Greg Ver St
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
 *INFORMS Annual Meeting 2024 [Contributed Presentation]*.
 
+* From One to Zero: RAG-IM Adapts Language Models for Interpretable Zero-Shot Predictions on Clinical Tabular Data.  
+Sazan Mahbub, Caleb Ellington, Sina Alinejad, Kevin Wen, __Yingtao Luo__, Ben Lengerich, Eric P Xing.  
+*Machine Learning for Health Symposium 2024.* [[Paper](https://openreview.net/forum?id=BnKvIn8JKl)]
+
 * Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning.  
 Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, Pascal Friederich, Eric P Xing.  
 *International Conference on Machine Learning (ICML 2024)*. [[code](https://github.com/JADEUSC/contextualized_policy_recovery)] [[arXiv](https://arxiv.org/pdf/2310.07918.pdf)] 
