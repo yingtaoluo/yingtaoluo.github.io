@@ -14,8 +14,8 @@ My name is Yingtao Luo (Ying-Tao Luo, 罗颖韬). I am a third-year Ph.D. studen
 Truly grateful for all the great people from whom I learn a lot and get a lot of support. 
 
 ## Methodology Interest
-Decision Making: Learning agent that collaborates with experts to make clinical decisions.  
-Foundation Model: Large language model and multimodal model for biomedicine and healthcare.  
+Decision Making: Learning agent that collaborates with experts to make medical decisions.  
+Foundation Model: Large language model and multimodal model for biomedicine & health.  
 
 ## Domain Interest
 Health, Science (scientific basis for health).
