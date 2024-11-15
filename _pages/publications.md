@@ -20,7 +20,7 @@ author_profile: true
 
 * Your Diffusion Model is Secretly a Noise Classifier and Benefits from Contrastive Training.  
 Yunshu Wu, __Yingtao Luo__, Xianghao Kong, Evangelos E. Papalexakis, Greg Ver Steeg.  
-*Advances in Neural Information Processing Systems 37 (NeurIPS 2024).* [[Paper](https://arxiv.org/pdf/2407.08946)]
+*Advances in Neural Information Processing Systems 37 (NeurIPS 2024).* [[Paper](https://openreview.net/forum?id=RE7wPI4vfT)]
 
 * Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
@@ -32,11 +32,11 @@ Sazan Mahbub, Caleb Ellington, Sina Alinejad, Kevin Wen, __Yingtao Luo__, Ben Le
 
 * Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning.  
 Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, Pascal Friederich, Eric P Xing.  
-*International Conference on Machine Learning (ICML 2024)*. [[code](https://github.com/JADEUSC/contextualized_policy_recovery)] [[arXiv](https://arxiv.org/pdf/2310.07918.pdf)] 
+*International Conference on Machine Learning (ICML 2024)*. [[code](https://github.com/JADEUSC/contextualized_policy_recovery)] [[Paper](https://openreview.net/forum?id=YEQM0asWCH)] 
 
 * BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition.  
 Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.  
-*International Conference on Machine Learning (ICML 2024) [Spotlight Paper]*. [[arXiv](https://arxiv.org/pdf/2308.14906.pdf)]
+*International Conference on Machine Learning (ICML 2024) [Spotlight Paper]*. [[Code](https://github.com/xuangu-fang/BayOTIDE)] [[Paper](https://openreview.net/forum?id=aGBpiEcB8z)]
 
 * Fairness without Demographics on Electronic Health Records.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
