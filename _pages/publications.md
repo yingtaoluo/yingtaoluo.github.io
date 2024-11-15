@@ -63,7 +63,7 @@ __Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.
 * AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation.  
 Juyong Jiang, Peiyan Zhang, __Yingtao Luo__, Chaozhuo Li, Jaeboum Kim,  
 Kai Zhang, Senzhang Wang, Xing Xie, Sunghun Kim.  
-*ACM International Conference on Information and Knowledge Management (CIKM 2023)*.  [[Paper](https://doi.org/10.1145/3583780.3614773)] 
+*ACM International Conference on Information and Knowledge Management (CIKM 2023)*. [[Code](https://github.com/juyongjiang/AdaMCT)]  [[Paper](https://doi.org/10.1145/3583780.3614773)] 
 
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
