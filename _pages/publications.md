@@ -18,6 +18,7 @@ author_profile: true
 
 ## Conferences
 
+
 * Your Diffusion Model is Secretly a Noise Classifier and Benefits from Contrastive Training.  
 Yunshu Wu, __Yingtao Luo__, Xianghao Kong, Evangelos E. Papalexakis, Greg Ver Steeg.  
 *Advances in Neural Information Processing Systems 37 (NeurIPS 2024).* [[Paper](https://openreview.net/forum?id=RE7wPI4vfT)]
@@ -38,9 +39,13 @@ Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, P
 Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.  
 *International Conference on Machine Learning (ICML 2024) [Spotlight Paper]*. [[Code](https://github.com/xuangu-fang/BayOTIDE)] [[Paper](https://openreview.net/forum?id=aGBpiEcB8z)]
 
+* Fairness without Demographics through Learning Graph of Gradients.  
+__Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=zQsqf7wkh9))]
+
 * Fairness without Demographics on Electronic Health Records.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
-*AAAI 2024 SSS Clinical Foundation Models [Contributed Talk]*. [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DAAAI.org%2F2024%2FSpring_Symposium_Series%2FClinical_FMs%2FAuthors%23your-submissions))]
+*AAAI 2024 SSS Clinical Foundation Models [Contributed Talk]*. [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn))]
 
 * GSLB: The Graph Structure Learning Benchmark.  
 Zhixun Li, Liang Wang, Xin Sun, Yifan Luo, Yanqiao Zhu, Dingshuo Chen,  
