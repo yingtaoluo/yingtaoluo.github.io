@@ -21,7 +21,7 @@ author_profile: true
 
 * Your Diffusion Model is Secretly a Noise Classifier and Benefits from Contrastive Training.  
 Yunshu Wu, __Yingtao Luo__, Xianghao Kong, Evangelos E. Papalexakis, Greg Ver Steeg.  
-*Advances in Neural Information Processing Systems 37 (NeurIPS 2024).* [[Paper](https://openreview.net/forum?id=RE7wPI4vfT)]
+*Advances in Neural Information Processing Systems 37 (NeurIPS 2024).* [[Code](https://github.com/yunshuwu/ContrastiveDiffusionLoss)] [[Paper](https://openreview.net/forum?id=RE7wPI4vfT)]
 
 * Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
