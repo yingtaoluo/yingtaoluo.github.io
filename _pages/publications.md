@@ -40,7 +40,7 @@ Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.
 *International Conference on Machine Learning (ICML 2024) [Spotlight Paper]*. [[Code](https://github.com/xuangu-fang/BayOTIDE)] [[Paper](https://openreview.net/forum?id=aGBpiEcB8z)]
 
 * Fairness without Demographics through Learning Graph of Gradients.  
-__Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.
+__Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=zQsqf7wkh9))]
 
 * Fairness without Demographics on Electronic Health Records.  
