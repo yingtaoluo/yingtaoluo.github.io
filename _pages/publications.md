@@ -41,11 +41,11 @@ Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.
 
 * Fairness without Demographics through Learning Graph of Gradients.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=zQsqf7wkh9))]
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=zQsqf7wkh9)]
 
 * Fairness without Demographics on Electronic Health Records.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
-*AAAI 2024 SSS Clinical Foundation Models [Contributed Talk]*. [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn))]
+*AAAI 2024 Spring Symposium on Clinical Foundation Models [Contributed Talk]*. [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn)]
 
 * GSLB: The Graph Structure Learning Benchmark.  
 Zhixun Li, Liang Wang, Xin Sun, Yifan Luo, Yanqiao Zhu, Dingshuo Chen,  
