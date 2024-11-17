@@ -52,7 +52,7 @@ __Yingtao Luo\*__, Qiang Liu\*, Yuntian Chen, Wenbo Hu, Tian Tian, Jun Zhu.
 *<NeurIPS 2022 AI for Science>*. [[code](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery)] [[Paper](https://doi.org/10.1145/3580305.3599466)] [[Talk](https://dl.acm.org/doi/10.1145/3580305.3599466#)]
 
 * AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation.  
-Juyong Jiang, Peiyan Zhang, __Yingtao Luo__, Chaozhuo Li, Jaeboum Kim,  
+Juyong Jiang*, Peiyan Zhang*, __Yingtao Luo__, Chaozhuo Li, Jaeboum Kim,  
 Kai Zhang, Senzhang Wang, Xing Xie, Sunghun Kim.  
 *ACM International Conference on Information and Knowledge Management (CIKM 2023)*. [[Code](https://github.com/juyongjiang/AdaMCT)]  [[Paper](https://doi.org/10.1145/3583780.3614773)]
 
