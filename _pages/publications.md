@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 
 \* Equal Contribution  
-<> Presentation at a Workshop  
+<> Additional Presentation at a Workshop  
 [Media] coverage report link  
 
 ## Conference Proceedings & Journals
@@ -23,7 +23,7 @@ Yunshu Wu, __Yingtao Luo__, Xianghao Kong, Evangelos E. Papalexakis, Greg Ver St
 
 * From One to Zero: RAG-IM Adapts Language Models for Interpretable Zero-Shot Predictions on Clinical Tabular Data.  
 Sazan Mahbub, Caleb Ellington, Sina Alinejad, Kevin Wen, __Yingtao Luo__, Ben Lengerich, Eric P Xing.  
-*<Machine Learning for Health Symposium 2024>. <NeurIPS 2024 TRL & AFM>*. [[Paper](https://openreview.net/forum?id=BnKvIn8JKl)]
+  Machine Learning for Health Symposium 2024. <NeurIPS 2024 TRL & AFM>*. [[Paper](https://openreview.net/forum?id=BnKvIn8JKl)]
 
 * Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning.  
 Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, Pascal Friederich, Eric P Xing.  
