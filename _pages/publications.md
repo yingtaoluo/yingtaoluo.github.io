@@ -13,7 +13,7 @@ author_profile: true
 
 \* Equal Contribution  
 <> Additional Presentation at a Workshop  
-[Media] coverage report link  
+[] Special Contribution  
 
 ## Conference Proceedings & Journals
 
