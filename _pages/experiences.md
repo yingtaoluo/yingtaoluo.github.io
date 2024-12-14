@@ -34,7 +34,8 @@ Academic Services
   * NeurIPS 2022-2024
   * NeurIPS DB Track 2024
   * ICLR 2022-2025
-  * TheWebConf 2023
+  * TheWebConf(WWW) 2023
+  * WWW AI4TS Workshop 2025
   * KDD 2023-2025
   * KDD MILETS 2023-2024
   * SDM 2024
