@@ -21,7 +21,6 @@ Awards
 * CMU GSA Conference Scholarship, 2023.
 * NSF Student Travel Award of ICDM, 2022.
 * [CMU PwC Center Presidential Fellowship](https://www.cmu.edu/risk-reg-center/index.html), 2022.
-* ICLR Highlighted Reviewer Award, 2022.
 * Student Scholarship of TheWebConf, 2021.
 * Outstanding Graduate Representative of HUST (Top 1%, 40 out of 6800 in university), 2019.
 * Meritorious Winner of Interdisciplinary Contest of Modeling (Top 9% globally), 2018
@@ -34,10 +33,10 @@ Academic Services
   * NeurIPS DB Track 2024
   * NeurIPS ML4PS Workshop 2021-2024
   * NeurIPS ML4Mol Workshop 2021
-  * ICLR 2022-2025
+  * ICLR 2022-2025 (Highlighted Reviewer Award in 2022)
   * TheWebConf(WWW) 2023
   * WWW AI4TS Workshop 2025
-  * KDD 2023-2025
+  * KDD 2023-2025 (Excellent Reviewer Award in 2025)
   * KDD MILETS Workshop 2023-2024
   * SDM 2024
   * ICML 2023-2025
