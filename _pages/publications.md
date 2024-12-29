@@ -35,7 +35,7 @@ Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.
 
 * Fairness without Demographics through Learning Graph of Gradients.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=zQsqf7wkh9)] [[DOI](https://doi.org/10.1145/3690624.3709160)]
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://arxiv.org/pdf/2412.03706)] [[DOI](https://doi.org/10.1145/3690624.3709160)]
 
 * Fairness without Demographics on Electronic Health Records.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
