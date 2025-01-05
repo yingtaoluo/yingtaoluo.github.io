@@ -62,5 +62,15 @@ Academic Services
   * AAAI Member
   * AMIA Member
   * INFORMS Member
+* Teaching Assistantship
+  * CMU 10403 Deep Reinforcement Learning & Control (Spring 2025)
+  * CMU 95828 Machine Learning for Problem Solving (Spring 2025)
+  * CMU 95888 Data Focused Python (Fall 2023 & 2024)
+  * CMU 90800 Exploratory Data Analysis and Visualization with Python (Fall 2024)
+  * CMU 90711 Statistical Reasoning with R (Head TA, Fall 2023 & 2024)
+  * CMU 95760 Decision Making Under Uncertainty (Spring 2024)
+  * CMU Python Basics & Programming Prep (Summer 2024)
+  * CMU 95722 Digital Transformation (Summer 2024)
+
 
   
