@@ -63,7 +63,6 @@ Academic Services
   * AMIA Member
   * INFORMS Member
 * Teaching Assistantship
-  * CMU 10403 Deep Reinforcement Learning & Control (Spring 2025)
   * CMU 95828 Machine Learning for Problem Solving (Spring 2025)
   * CMU 95888 Data Focused Python (Fall 2023 & 2024)
   * CMU 90800 Exploratory Data Analysis and Visualization with Python (Fall 2024)
