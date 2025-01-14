@@ -49,7 +49,7 @@ Academic Services
   * ICCS 2023
   * PACIS 2023
   * ACML 2024
-  * AMIA Annual Symposium 2024
+  * AMIA Annual Symposium 2024-2025
 * Journal Reviewer
   * IEEE Transactions on Knowledge and Data Engineering
   * IEEE Transactions on Cybernetics
