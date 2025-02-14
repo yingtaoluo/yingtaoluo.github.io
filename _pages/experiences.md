@@ -52,6 +52,7 @@ Academic Services
   * AMIA Annual Symposium 2024-2025
 * Journal Reviewer
   * IEEE Transactions on Knowledge and Data Engineering
+  * ACM Transactions on Intelligent Systems and Technology
   * IEEE Transactions on Cybernetics
   * Journal of Computer Science and Technology
   * Journal of Chemical Theory and Computation
