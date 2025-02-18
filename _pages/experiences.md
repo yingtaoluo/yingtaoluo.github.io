@@ -29,7 +29,7 @@ Awards
 Academic Services
 ======
 * Conference PC Member and/or Reviewer:
-  * NeurIPS 2022-2024
+  * NeurIPS 2022-2025
   * NeurIPS DB Track 2024
   * NeurIPS ML4PS Workshop 2021-2024
   * NeurIPS ML4Mol Workshop 2021
