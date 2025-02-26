@@ -54,7 +54,7 @@ __Yingtao Luo\*__, Qiang Liu\*, Yuntian Chen, Wenbo Hu, Tian Tian, Jun Zhu.
 * Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training.  
 Juyong Jiang*, Peiyan Zhang*, __Yingtao Luo*__, Chaozhuo Li,  
 Jae Boum Kim, Kai Zhang, Senzhang Wang, Sunghun Kim, Philip S. Yu  
-Accepted to *IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[Paper](https://arxiv.org/pdf/2112.06460)] 
+*IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[Paper](https://doi.org/10.1109/TKDE.2025.3546035)] 
 
 * AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation.  
 Juyong Jiang*, Peiyan Zhang*, __Yingtao Luo__, Chaozhuo Li, Jaeboum Kim,  
