@@ -17,6 +17,10 @@ author_profile: true
 
 ## Conference Proceedings & Journals
 
+* Fairness without Demographics through Learning Graph of Gradients.  
+__Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://arxiv.org/pdf/2412.03706)] [[DOI](https://doi.org/10.1145/3690624.3709160)]
+
 * Your Diffusion Model is Secretly a Noise Classifier and Benefits from Contrastive Training.  
 Yunshu Wu, __Yingtao Luo__, Xianghao Kong, Evangelos E. Papalexakis, Greg Ver Steeg.  
 *Advances in Neural Information Processing Systems 37 (NeurIPS 2024).* [[Code](https://github.com/yunshuwu/ContrastiveDiffusionLoss)] [[Paper](https://openreview.net/forum?id=RE7wPI4vfT)]
@@ -32,10 +36,6 @@ Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, P
 * BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition.  
 Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.  
 *International Conference on Machine Learning (ICML 2024) [Spotlight Paper]*. [[Code](https://github.com/xuangu-fang/BayOTIDE)] [[Paper](https://openreview.net/forum?id=aGBpiEcB8z)]
-
-* Fairness without Demographics through Learning Graph of Gradients.  
-__Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://arxiv.org/pdf/2412.03706)] [[DOI](https://doi.org/10.1145/3690624.3709160)]
 
 * Fairness without Demographics on Electronic Health Records.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
