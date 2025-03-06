@@ -87,7 +87,7 @@ Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.
 *Research (Science Partner Journal). <NeurIPS 2020 ML4PS>*. [[code](http://github.com/yingtaoluo/Probabilistic-density-network)]  [[Paper](https://doi.org/10.34133/2020/8757403)]  [[media (Science)](https://mp.weixin.qq.com/s/8nG3hjKBqzqBrquqL-lhbA)]
   
 * Deep spatial representation learning of polyamide nanofiltration membranes.  
-Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen., Rong-Zhen Liao, QiangZhao.  
+Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen, Rong-Zhen Liao, Qiang Zhao.  
 *Journal of Membrane Science. <NeurIPS 2020 ML4Mol>*. [[code](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[Paper](https://doi.org/10.1016/j.memsci.2020.118910)]
 
 ## Conference Abstracts
