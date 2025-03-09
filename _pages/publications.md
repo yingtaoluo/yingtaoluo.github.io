@@ -52,7 +52,7 @@ __Yingtao Luo\*__, Qiang Liu\*, Yuntian Chen, Wenbo Hu, Tian Tian, Jun Zhu.
 *<NeurIPS 2022 AI for Science>*. [[code](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery)] [[Paper](https://doi.org/10.1145/3580305.3599466)] [[Talk](https://dl.acm.org/doi/10.1145/3580305.3599466#)]
 
 * Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training.  
-Juyong Jiang*, Peiyan Zhang*, __Yingtao Luo__*, Chaozhuo Li,  
+Juyong Jiang\*, Peiyan Zhang\*, __Yingtao Luo__\*, Chaozhuo Li,  
 Jae Boum Kim, Kai Zhang, Senzhang Wang, Sunghun Kim, Philip S. Yu  
 *IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[Paper](https://doi.org/10.1109/TKDE.2025.3546035)] 
 
