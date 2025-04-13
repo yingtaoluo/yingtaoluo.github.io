@@ -91,6 +91,9 @@ Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen, Rong-Zhen Liao, Qiang Z
 *Journal of Membrane Science. <NeurIPS 2020 ML4Mol>*. [[code](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[Paper](https://doi.org/10.1016/j.memsci.2020.118910)]
 
 ## Conference Abstracts
+* Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
+__Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
+*INFORMS Annual Meeting 2025 [Contributed Presentation]*.
 
 * Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
