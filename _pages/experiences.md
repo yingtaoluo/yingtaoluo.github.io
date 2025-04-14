@@ -17,6 +17,7 @@ Education
 
 Awards
 ======
+* CMU GSA Scholarly Project Funding, 2025.
 * [CMU CMLH Translational Fellowship in Digital Health](https://www.cs.cmu.edu/cmlh/translational-fellows), 2023.
 * CMU GSA Conference Scholarship, 2023.
 * NSF Student Travel Award of ICDM, 2022.
