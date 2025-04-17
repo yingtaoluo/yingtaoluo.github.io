@@ -21,7 +21,7 @@ Foundation Model: Large language model and multimodal model for healthcare infor
 Health, Science (scientific basis for health).
 
 ## Statement
-I am more attracted to real-world impact and how people's lives can be improved directly (one of the reasons I quit physics, alas), while truly enjoying exposing myself to core ML theory. I am generally open to collaboration and enjoy working with talented people I have met so far. 
+I am more attracted to the real-world impact of research and how people's lives can be improved directly (one of the reasons I quitted physics, alas). I am generally open to collaboration and enjoy working with talented people I have met so far. 
 
 ## Skillset
 Mostly about core ML (statistics, convex optimization, graphical model, reinforcement learning, etc.) and coding with Pytorch and CUDA, but also have the pleasure to learn human decision bias, healthcare informatics to aid my research.
