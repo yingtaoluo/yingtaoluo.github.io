@@ -15,7 +15,7 @@ author_profile: true
 <> Additional Presentation at a Workshop  
 [] Special Contribution  
 
-## Conference Proceedings & Journals
+## Publications
 
 * Fairness without Demographics through Learning Graph of Gradients.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
@@ -90,12 +90,16 @@ Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.
 Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen, Rong-Zhen Liao, Qiang Zhao.  
 *Journal of Membrane Science. <NeurIPS 2020 ML4Mol>*. [[code](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[Paper](https://doi.org/10.1016/j.memsci.2020.118910)]
 
-## Conference Abstracts
+## Conference Presentations
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
-*INFORMS Annual Meeting 2025 [Contributed Presentation]*.
+*INFORMS Annual Meeting 2025 [Invited Oral Presentation]*.
+
+* Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
+__Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
+*World Transplant Congress 2025 [Oral Presentation]*.
 
 * Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
-*INFORMS Annual Meeting 2024 [Contributed Presentation]*.
+*INFORMS Annual Meeting 2024 [Invited Oral Presentation]*.
 
