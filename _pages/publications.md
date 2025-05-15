@@ -16,6 +16,9 @@ author_profile: true
 [] Special Contribution  
 
 ## Publications
+* Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting.  
+Yingtao Luo, Shikai Fang, Binqing Wu, Qingsong Wen, Liang Sun.  
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*
 
 * Fairness without Demographics through Learning Graph of Gradients.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
