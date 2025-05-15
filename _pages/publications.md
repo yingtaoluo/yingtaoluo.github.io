@@ -17,7 +17,7 @@ author_profile: true
 
 ## Publications
 * Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting.  
-Yingtao Luo, Shikai Fang, Binqing Wu, Qingsong Wen, Liang Sun.  
+__Yingtao Luo__, Shikai Fang, Binqing Wu, Qingsong Wen, Liang Sun.  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*
 
 * Fairness without Demographics through Learning Graph of Gradients.  
