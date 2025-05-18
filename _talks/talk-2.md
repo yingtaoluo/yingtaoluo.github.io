@@ -8,6 +8,9 @@ date: 2025-08-03
 location: "San Francisco, CA, USA"
 ---
 
+![image](https://github.com/user-attachments/assets/81ce7739-1434-42cf-b4f2-0528779ca53b)
+
+
 Purpose: This study develops and benchmarks interpretable machine learning models for transplant mortality prediction for decision making when a donor heart becomes available, with the aim of supporting clinicians in optimizing patient outcomes using real-time, data-driven insights.
 
 Methods: We utilize a new and comprehensive dataset of donors, recipients, and organs from the United Network for Organ Sharing (UNOS), comprising 25,610 records and 247 variables after data processing and feature engineering. Several machine learning models, including logistic regression, random forest, XGBoost, multilayer perceptron, and transformer-based models, were trained and evaluated on the task, respectively, of one-year, three-year and five-year mortality prediction. We conducted extensive hyperparameter tuning and cross-validation, assessing model performance using standard classification metrics, with a primary focus on the C-statistic (AUC). Feature importance was analyzed using SHAP values and logistic summary to ensure clinical interpretability.
