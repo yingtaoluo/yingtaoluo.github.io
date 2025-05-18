@@ -2,7 +2,7 @@
 title: "Learning from Simulated Patient Trajectories: A Sequential Decision-Making Agent for Heart Transplantation"
 collection: talks
 type: "Invited Talk"
-permalink: /talks/2012-03-01-talk-1
+permalink: /talks/talk-3
 venue: "INFORMS Annual Meeting 2025"
 date: 2025-10-26
 location: "Atlanta, GA, USA"
