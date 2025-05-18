@@ -104,5 +104,5 @@ __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.
 
 * Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
-*INFORMS Annual Meeting 2024 (Invited Talk)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-3.md)]
+*INFORMS Annual Meeting 2024 (Invited Talk)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-1.md)]
 
