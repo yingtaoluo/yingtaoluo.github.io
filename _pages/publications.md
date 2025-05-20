@@ -94,7 +94,7 @@ Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.
 Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen, Rong-Zhen Liao, Qiang Zhao.  
 *Journal of Membrane Science. <NeurIPS 2020 ML4Mol>*. [[code](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[Paper](https://doi.org/10.1016/j.memsci.2020.118910)]
 
-## Conference Talks
+## Conference Presentations
 * Learning from Simulated Patient Trajectories: A Sequential Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
 *INFORMS Annual Meeting 2025 (Invited Talk)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-3.md)]
