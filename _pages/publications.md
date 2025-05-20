@@ -39,11 +39,11 @@ Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, P
 
 * BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition.  
 Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.  
-*International Conference on Machine Learning (ICML 2024) [Spotlight Paper]*. [[Code](https://github.com/xuangu-fang/BayOTIDE)] [[Paper](https://openreview.net/forum?id=aGBpiEcB8z)]
+*International Conference on Machine Learning (ICML 2024) [Spotlight Paper (191/9473)]*. [[Code](https://github.com/xuangu-fang/BayOTIDE)] [[Paper](https://openreview.net/forum?id=aGBpiEcB8z)]
 
 * Fairness without Demographics on Electronic Health Records.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
-*AAAI 2024 Spring Symposium on Clinical Foundation Models [Contributed Talk]*. [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn)]
+*AAAI 2024 Spring Symposium on Clinical Foundation Models [Contributed Talk (10/47)]*. [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn)]
 
 * GSLB: The Graph Structure Learning Benchmark.  
 Zhixun Li, Liang Wang, Xin Sun, Yifan Luo, Yanqiao Zhu, Dingshuo Chen,  
