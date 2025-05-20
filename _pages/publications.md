@@ -12,6 +12,7 @@ author_profile: true
 {% include base_path %}
 
 \* Equal Contribution  
+† Correspondence   
 <> Additional Presentation at a Workshop  
 [] Special Contribution  
 
@@ -113,6 +114,6 @@ __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.
 *Submitted to Machine Learning for Healthcare (MLHC 2025).*  
 
 * Self-Evolving Agentic LLMs for Financial Sentiment Analysis through Reflective Reasoning.  
-Kangyi Zhao, Xinyu Wei, Luojia Liu, Shuwei Liu, Manqi Cai, Yushun Dong, __Yingtao Luo__.   
+Kangyi Zhao, Xinyu Wei, Luojia Liu, Shuwei Liu, Manqi Cai, Yushun Dong, __Yingtao Luo†__.   
 *Submitted to KDD Workshop on Machine Learning in Finance (KDD 2025 MLF).*  
 
