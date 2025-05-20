@@ -106,3 +106,13 @@ __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
 *INFORMS Annual Meeting 2024 (Invited Talk)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-1.md)]
 
+## Submitted Works
+* Benchmarking Waitlist Mortality Prediction in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
+__Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
+*submitted to American Medical Informatics Association 2025 Annual Symposium (AMIA 2025).*  
+*submitted to Machine Learning for Healthcare (MLHC 2025).*  
+
+* Self-Evolving Agentic LLMs for Financial Sentiment Analysis through Reflective Reasoning.  
+Kangyi Zhao, Xinyu Wei, Luojia Liu, Shuwei Liu, Manqi Cai, Yushun Dong, __Yingtao Luo__.   
+*KDD Workshop on Machine Learning in Finance (KDD 2025 MLF).*  
+
