@@ -15,6 +15,7 @@ I am very grateful so far for all the great people from whom I learn a lot and g
 
 ## Methodology Interest
 Decision-Making: Designing intelligent agents capable of adaptive reasoning, self-evolution through past failures, and meaningful collaboration with clinical experts in high-stakes environments.
+
 Foundation Models: Advancing the use of large language and multimodal models to extract, integrate, and reason over diverse biomedical data, enabling more personalized, context-aware, and evidence-grounded decision support. 
 
 ## Domain Interest
