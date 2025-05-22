@@ -19,11 +19,11 @@ author_profile: true
 ## Publications
 * Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting.  
 __Yingtao Luo__, Shikai Fang, Binqing Wu, Qingsong Wen, Liang Sun.  
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[Code](https://github.com/yingtaoluo/PhyDL-NWP)] [[Paper](https://arxiv.org/pdf/2505.14555)] [[DOI](https://doi.org/10.1145/3711896.3737081)] 
 
 * Fairness without Demographics through Learning Graph of Gradients.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
-*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://arxiv.org/pdf/2412.03706)] [[DOI](https://doi.org/10.1145/3690624.3709160)]
+*ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[Code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://arxiv.org/pdf/2412.03706)] [[DOI](https://doi.org/10.1145/3690624.3709160)]
 
 * Your Diffusion Model is Secretly a Noise Classifier and Benefits from Contrastive Training.  
 Yunshu Wu, __Yingtao Luo__, Xianghao Kong, Evangelos E. Papalexakis, Greg Ver Steeg.  
