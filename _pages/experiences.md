@@ -66,6 +66,7 @@ Academic Services
   * INFORMS Member
 * Teaching Assistantship
   * CMU 94809 Responsible AI (Summer 2025)
+  * CMU 90502 Introduction to Python (Summer 2025)
   * CMU [10403](https://cmudeeprl.github.io/403website_s25/) Deep Reinforcement Learning (Spring 2025)
   * CMU 95828 Machine Learning for Problem Solving (Spring 2025)
   * CMU 95888 Data Focused Python (Fall 2023 & 2024)
