@@ -22,7 +22,7 @@ Foundation Models: Advancing the use of large language and multimodal models to 
 AI for Health, AI for Science and Research (scientific basis for health).
 
 ## Statement
-I am more attracted to the real-world impact of research and how people's lives can be improved directly. I am generally open to collaboration who share the same research interest and enjoy working with talented people I have met so far. 
+I am more attracted to the real-world impact of research and how people's lives can be improved directly. I am generally open to collaboration who share the same interest and enjoy working with talented people I have met so far. 
 
 ## Skillset
 Mostly about core ML (statistics, convex optimization, graphical model, reinforcement learning, etc.) and coding with Pytorch and CUDA, but also have the pleasure to learn human decision bias, healthcare informatics to aid my research.
