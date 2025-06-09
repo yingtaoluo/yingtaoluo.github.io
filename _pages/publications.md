@@ -17,6 +17,10 @@ author_profile: true
 [] Special Contribution  
 
 ## Publications
+* Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
+__Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
+*Proceedings of American Medical Informatics Association 2025 Annual Symposium (AMIA 2025).*
+
 * Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting.  
 __Yingtao Luo__, Shikai Fang, Binqing Wu, Qingsong Wen, Liang Sun.  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).*  [[Code](https://github.com/yingtaoluo/PhyDL-NWP)] [[Paper](https://arxiv.org/pdf/2505.14555)] [[DOI](https://doi.org/10.1145/3711896.3737081)] 
@@ -31,7 +35,7 @@ Yunshu Wu, __Yingtao Luo__, Xianghao Kong, Evangelos E. Papalexakis, Greg Ver St
 
 * From One to Zero: RAG-IM Adapts Language Models for Interpretable Zero-Shot Predictions on Clinical Tabular Data.  
 Sazan Mahbub, Caleb Ellington, Sina Alinejad, Kevin Wen, __Yingtao Luo__, Ben Lengerich, Eric P Xing.  
-  Machine Learning for Health Symposium 2024. <NeurIPS 2024 TRL & AFM>*. [[Paper](https://openreview.net/forum?id=BnKvIn8JKl)]
+*Machine Learning for Health Symposium 2024. <NeurIPS 2024 TRL & AFM>*. [[Paper](https://openreview.net/forum?id=BnKvIn8JKl)]
 
 * Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation Learning.  
 Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, Pascal Friederich, Eric P Xing.  
@@ -110,7 +114,6 @@ __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.
 ## Submitted Works
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
-*Submitted to American Medical Informatics Association 2025 Annual Symposium (AMIA 2025).*  
 *Submitted to Machine Learning for Healthcare (MLHC 2025).*  
 
 * Self-Evolving Agentic LLMs for Financial Sentiment Analysis through Reflective Reasoning.  
