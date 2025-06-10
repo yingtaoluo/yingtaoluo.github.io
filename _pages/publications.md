@@ -121,6 +121,6 @@ Kangyi Zhao, Xinyu Wei, Luojia Liu, Shuwei Liu, Manqi Cai, Yushun Dong, __Yingta
 *Submitted to KDD Workshop on Machine Learning in Finance (KDD 2025 MLF).*
 
 * Using LLMs to detect statistical anomalies in real-world data: Combining Glass-box learning with Generative AI.  
-Benjamin Lengerich, Sebastian Bordt, Yingtao Luo, Mark E. Nunnally, Ryan Crowley, William R. Small, Theodore M. Hill, Rich Caruana.  
+Benjamin Lengerich, Sebastian Bordt, __Yingtao Luo__, Mark E. Nunnally, Ryan Crowley, William R. Small, Theodore M. Hill, Rich Caruana.  
 *Submitted to Journal of the American Medical Informatics Association (JAMIA).*  
 
