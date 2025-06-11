@@ -37,7 +37,7 @@ Academic Services
   * WWW 2023
   * WWW AI4TS Workshop 2025
   * KDD 2023-2025 (Excellent Reviewer in 2025)
-  * KDD MILETS Workshop 2023-2024
+  * KDD MILETS Workshop 2023-2025
   * CIKM 2025
   * SDM 2024
   * ICML 2023-2025
