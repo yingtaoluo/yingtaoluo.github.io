@@ -19,7 +19,7 @@ Decision-Making: Designing intelligent agents capable of adaptive reasoning, sel
 Foundation Models: Advancing the use of large language and multimodal models to extract, integrate, and reason over diverse biomedical data, enabling more personalized, context-aware, and evidence-grounded decision support. 
 
 ## Domain Interest
-AI for Health, AI for Science (scientific basis for health).
+AI for Medical Decision Making, Responsible AI.
 
 ## Statement
 I am more attracted to the real-world impact of research and how people's lives can be improved directly. I am generally open to collaboration who share the same interest and enjoy working with talented people I have met so far. 
