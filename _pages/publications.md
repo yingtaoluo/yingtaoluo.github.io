@@ -12,7 +12,6 @@ author_profile: true
 {% include base_path %}
 
 \* Equal Contribution  
-† Correspondence   
 <> Additional Presentation at a Workshop  
 [] Special Contribution  
 
@@ -115,12 +114,13 @@ __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
 *INFORMS Annual Meeting 2024 (Invited Talk)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-1.md)]
 
-## Submitted Works
+## Ongoing Works
+* MEDICAL DEEP RESEARCH: Orchestrating Large Language Model Agents and Resources for Medical Investigation.  
+Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.   
+
 * Self-Evolving Agentic LLMs for Financial Sentiment Analysis through Reflective Reasoning.  
-Kangyi Zhao, Xinyu Wei, Luojia Liu, Shuwei Liu, Manqi Cai, Yushun Dong, __Yingtao Luo†__.   
-*Submitted to KDD Workshop on Machine Learning in Finance (KDD 2025 MLF).*
+Kangyi Zhao, Xinyu Wei, Luojia Liu, Shuwei Liu, Manqi Cai, Yushun Dong, __Yingtao Luo__.   
 
 * Using LLMs to detect statistical anomalies in real-world data: Combining Glass-box learning with Generative AI.  
 Benjamin Lengerich, Sebastian Bordt, __Yingtao Luo__, Mark E. Nunnally, Ryan Crowley, William R. Small, Theodore M. Hill, Rich Caruana.  
-*Submitted to Journal of the American Medical Informatics Association (JAMIA).*  
 
