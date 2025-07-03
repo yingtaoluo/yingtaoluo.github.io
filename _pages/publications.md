@@ -114,7 +114,7 @@ __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
 *INFORMS Annual Meeting 2024 (Invited Talk)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-1.md)]
 
-## Ongoing Works
+## Ongoing/Submitted Works
 * MEDICAL DEEP RESEARCH: Orchestrating Large Language Model Agents and Resources for Medical Investigation.  
 Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.   
 
