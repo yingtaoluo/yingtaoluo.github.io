@@ -16,7 +16,7 @@ author_profile: true
 <> Additional Presentation at a Workshop  
 [] Special Contribution  
 
-## Publications
+## Journals and Conference Proceedings
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
 *Proceedings of American Medical Informatics Association Annual Symposium (AMIA 2025).*
