@@ -1,5 +1,5 @@
 ---
-title: "Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset"
+title: "On Interpretable Heart Transplant Mortality Prediction and Benchmarking"
 collection: talks
 type: "Oral Presentation"
 permalink: /talks/talk-2
