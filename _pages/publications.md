@@ -104,7 +104,7 @@ __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.
 
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
-*Machine Learning for Healthcare (MLHC 2025).* 
+*Machine Learning for Healthcare (MLHC 2025).* [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-4.md)]
 
 * On Interpretable Heart Transplant Mortality Prediction and Benchmarking.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
