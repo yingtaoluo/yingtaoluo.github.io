@@ -102,11 +102,11 @@ Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen, Rong-Zhen Liao, Qiang Z
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
 *INFORMS Annual Meeting 2025 (Invited Talk)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-3.md)]
 
-* Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
+* Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
 *Machine Learning for Healthcare (MLHC 2025).* 
 
-* Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
+* On Interpretable Heart Transplant Mortality Prediction and Benchmarking.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
 *World Transplant Congress 2025 (Oral Presentation)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-2.md)]
 
