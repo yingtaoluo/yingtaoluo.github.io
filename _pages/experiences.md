@@ -66,6 +66,7 @@ Academic Services
   * AAAI Member
   * AMIA Member
   * INFORMS Member
+  * American Society of Transplantation Member
 * Teaching Assistantship
   * CMU 94809 Responsible AI (Summer 2025)
   * CMU 90502 Introduction to Python (Summer 2025)
