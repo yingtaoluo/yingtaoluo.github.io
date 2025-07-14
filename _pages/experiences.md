@@ -44,7 +44,7 @@ Academic Services
   * ICML 2023-2025
   * ICML SynS & ML Workshop 2023
   * AISTATS 2025
-  * AAAI 2025
+  * AAAI 2025-2026
   * AAAI Spring Symposium 2024
   * PAKDD 2023
   * EDM 2023
