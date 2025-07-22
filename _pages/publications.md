@@ -118,8 +118,9 @@ __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.
 * Interpretable Heart Transplant Mortality Prediction and Benchmarking.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.   
 
-* MEDICAL DEEP RESEARCH: Orchestrating Large Language Model Agents and Resources for Medical Investigation.  
-Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.   
+* Medical Deep Research: Orchestrating Large Language Model Agents and Resources for Medical Investigation.  
+Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.
+[[Code](https://github.com/realYuanLi/meddr)]
 
 * Self-Evolving Agentic LLMs for Financial Sentiment Analysis through Reflective Reasoning.  
 Kangyi Zhao, Xinyu Wei, Luojia Liu, Shuwei Liu, Manqi Cai, Yushun Dong, __Yingtao Luo__.   
