@@ -118,6 +118,9 @@ __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.
 * Interpretable Heart Transplant Mortality Prediction and Benchmarking.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.   
 
+* LLM-Empowered Medical Patient Communication: A Data-Centric Survey From a Clinical Perspective.  
+Ruosi Shao, Md Shamim Seraj*, Kangyi Zhao*, __Yingtao Luo__*, Lincan Li, Bolin Shen, Averi Bates, Yue Zhao, Chongle Pan, Lisa Hightow-Weidman, Shayok Chakraborty, Yushun Dong.
+
 * Medical Deep Research: Orchestrating Large Language Model Agents and Resources for Medical Investigation.  
 Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.
 [[Code](https://github.com/realYuanLi/meddr)]
