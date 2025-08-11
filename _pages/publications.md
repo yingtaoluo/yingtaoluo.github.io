@@ -56,7 +56,7 @@ __Yingtao Luo__, Xiangxin Zhou, Qiang Liu, Shu Wu, Liang Wang, Jeffrey Xu Yu.
 * Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations.  
 __Yingtao Luo\*__, Qiang Liu\*, Yuntian Chen, Wenbo Hu, Tian Tian, Jun Zhu.  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023).*  
-*<NeurIPS 2022 AI for Science>*. [[Code](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery)] [[Paper](https://doi.org/10.1145/3580305.3599466)] [[Talk](https://dl.acm.org/doi/10.1145/3580305.3599466#)]
+*<NeurIPS 2022 AI for Science>*. [[Code](https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery)] [[Paper](https://doi.org/10.1145/3580305.3599466)]
 
 * Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training.  
 Juyong Jiang\*, Peiyan Zhang\*, __Yingtao Luo__\*, Chaozhuo Li,  
