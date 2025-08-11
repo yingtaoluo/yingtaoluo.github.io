@@ -100,19 +100,19 @@ Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen, Rong-Zhen Liao, Qiang Z
 ## Conference Abtracts and Talks
 * Learning from Simulated Patient Trajectories: A Sequential Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
-*INFORMS Annual Meeting 2025 (Invited Talk)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-3.md)]
+*INFORMS Annual Meeting 2025 (Invited Talk)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2025.pdf)] [[Talk](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-3.md)]
 
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
-*Machine Learning for Healthcare (MLHC 2025).* [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-4.md)]
+*Machine Learning for Healthcare (MLHC 2025).* [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/MLHC2025.pdf)] [[Talk](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-4.md)]
 
 * On Interpretable Heart Transplant Mortality Prediction and Benchmarking.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
-*World Transplant Congress 2025 (Oral Presentation)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-2.md)]
+*World Transplant Congress 2025 (Oral Presentation)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/WTC2025.pdf)] [[Talk](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-2.md)]
 
 * Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
-*INFORMS Annual Meeting 2024 (Invited Talk)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-1.md)]
+*INFORMS Annual Meeting 2024 (Invited Talk)*. [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2024.pdf)] [[Talk](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-1.md)]
 
 ## Ongoing/Submitted Works
 * Interpretable Heart Transplant Mortality Prediction and Benchmarking.  
