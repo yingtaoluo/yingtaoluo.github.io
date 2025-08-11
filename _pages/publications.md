@@ -100,7 +100,7 @@ Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen, Rong-Zhen Liao, Qiang Z
 ## Conference Abtracts and Talks
 * Learning from Simulated Patient Trajectories: A Sequential Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
-*INFORMS Annual Meeting 2025 (Invited Talk)*. [2025-10-26, Atlanta, GA, USA] [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2025.pdf)] [[Talk](https://github.com/yingtaoluo/yingtaoluo.github.io/edit/master/_talks/talk-3.md)]
+*INFORMS Annual Meeting 2025 (Invited Talk)*. [2025-10-26, Atlanta, GA, USA] [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2025.pdf)]
 
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
