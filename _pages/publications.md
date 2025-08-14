@@ -108,7 +108,7 @@ __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.
 
 * On Interpretable Heart Transplant Mortality Prediction and Benchmarking.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
-*World Transplant Congress 2025 (Oral Presentation)*. [2025-08-03, San Francisco, CA, USA] [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/WTC2025.pdf)]
+*World Transplant Congress 2025 (Oral Presentation)*. [2025-08-03, San Francisco, CA, USA] [[Abstract](https://www.amjtransplant.org/article/S1600-6135(25)00510-6/fulltext)]
 
 * Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
