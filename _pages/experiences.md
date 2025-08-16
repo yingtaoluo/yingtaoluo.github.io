@@ -11,7 +11,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Machine Learning and Public Policy, Carnegie Mellon University, 2022-2027(expected)
-* M.S. in Machine Learning Research (on the way to ML Ph.D.), Carnegie Mellon University, 2022-2025
+* M.S. in [Machine Learning Research (on the way to ML Ph.D.)](https://ml.cmu.edu/current-students/phd-ms-research), Carnegie Mellon University, 2022-2025
 * M.S. in Computer Science & Systems, University of Washington, 2020-2022
 * B.S. in Physics and Computer Science, Huazhong U of Sci and Tech, 2015-2019
 
