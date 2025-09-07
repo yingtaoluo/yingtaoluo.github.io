@@ -34,7 +34,7 @@ Academic Services
   * NeurIPS 2022-2025
   * NeurIPS ML4PS Workshop 2021-2025
   * NeurIPS ML4Mol Workshop 2021
-  * ICLR 2022-2025 (Highlighted Reviewer in 2022)
+  * ICLR 2022-2026 (Highlighted Reviewer in 2022)
   * WWW 2023
   * WWW AI4TS Workshop 2025
   * KDD 2023-2025 (Excellent Reviewer in 2025)
@@ -43,9 +43,8 @@ Academic Services
   * SDM 2024
   * ICML 2023-2025
   * ICML SynS & ML Workshop 2023
-  * AISTATS 2025
-  * AAAI 2025-2026
-  * AAAI Spring Symposium 2024
+  * AISTATS 2025-2026
+  * AAAI 2024-2026
   * PAKDD 2023
   * EDM 2023
   * ICCS 2023
