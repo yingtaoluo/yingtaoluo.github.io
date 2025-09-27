@@ -17,7 +17,7 @@ author_profile: true
 
 ## Journals and Conference Proceedings
 * Medical Deep Research: Orchestrating Large Language Model Agents and Resources for Medical Investigation.  
-Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.
+Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.  
 *NeurIPS 2025 GenAI4Health Workshop.*  [[Code](https://github.com/Clinical-Copilot/Medical_Deep_Research)]
 
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
