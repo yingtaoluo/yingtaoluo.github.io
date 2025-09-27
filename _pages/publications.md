@@ -13,7 +13,6 @@ author_profile: true
 
 \* Equal Contribution  
 <> Additional Presentation at a Workshop  
-[] Special Contribution  
 
 ## Journals and Conference Proceedings
 * Medical Deep Research: Orchestrating Large Language Model Agents and Resources for Medical Investigation.  
