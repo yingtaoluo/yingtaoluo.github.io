@@ -21,7 +21,8 @@ Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.
 
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
-*American Medical Informatics Association Annual Symposium (AMIA 2025). [Student Paper Competition Finalist (8/200)]*  [[Paper](https://arxiv.org/pdf/2507.07339)] 
+*American Medical Informatics Association Annual Symposium (AMIA 2025).*  [[Paper](https://arxiv.org/pdf/2507.07339)]   
+![AMIA finalist](https://img.shields.io/badge/AMIA-Student%20paper%20competition%20finalist%20(8%2F200)-brightgreen)
 
 * Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting.  
 __Yingtao Luo__, Shikai Fang, Binqing Wu, Qingsong Wen, Liang Sun.  
@@ -45,11 +46,13 @@ Jannik Deuschel\*, Caleb N Ellington\*, __Yingtao Luo__, Benjamin J Lengerich, P
 
 * BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition.  
 Shikai Fang, Qingsong Wen, __Yingtao Luo__, Shandian Zhe, Liang Sun.  
-*International Conference on Machine Learning (ICML 2024) [Spotlight Paper (191/9473)]*. [[Code](https://github.com/xuangu-fang/BayOTIDE)] [[Paper](https://openreview.net/forum?id=aGBpiEcB8z)]
+*International Conference on Machine Learning (ICML 2024) [Spotlight Paper (191/9473)]*. [[Code](https://github.com/xuangu-fang/BayOTIDE)] [[Paper](https://openreview.net/forum?id=aGBpiEcB8z)]  
+![ICML Spotlight](https://img.shields.io/badge/ICML-Spotlight%20paper%20(191%2F9473)-brightgreen)
 
 * Fairness without Demographics on Electronic Health Records.  
 __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.  
-*AAAI 2024 Spring Symposium on Clinical Foundation Models [Contributed Talk (10/47)]*. [[Code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn)]
+*AAAI 2024 Spring Symposium on Clinical Foundation Models*. [[Code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn)]  
+![AAAI](https://img.shields.io/badge/AAAI-Contributed%20talk%20(10%2F47)-brightgreen)
 
 * GSLB: The Graph Structure Learning Benchmark.  
 Zhixun Li, Liang Wang, Xin Sun, Yifan Luo, Yanqiao Zhu, Dingshuo Chen,  
