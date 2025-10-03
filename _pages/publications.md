@@ -21,7 +21,7 @@ Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.
 
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
-*Proceedings of American Medical Informatics Association Annual Symposium (AMIA 2025).*  [[Paper](https://arxiv.org/pdf/2507.07339)]
+*American Medical Informatics Association Annual Symposium (AMIA 2025). [Student Paper Competition Finalist (8/200)]*  [[Paper](https://arxiv.org/pdf/2507.07339)] 
 
 * Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting.  
 __Yingtao Luo__, Shikai Fang, Binqing Wu, Qingsong Wen, Liang Sun.  
