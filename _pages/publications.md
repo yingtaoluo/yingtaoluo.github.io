@@ -19,6 +19,10 @@ author_profile: true
 Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.  
 *NeurIPS 2025 GenAI4Health Workshop.*  [[Code](https://github.com/Clinical-Copilot/Medical_Deep_Research)]
 
+* LLM-Empowered Medical Patient Communication: A Data-Centric Survey From a Clinical Perspective.  
+Ruosi Shao, Md Shamim Seraj*, Kangyi Zhao*, __Yingtao Luo__*, Lincan Li, Bolin Shen, Averi Bates, Yue Zhao, Chongle Pan, Lisa Hightow-Weidman, Shayok Chakraborty, Yushun Dong.  
+*Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025).*
+
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
 *American Medical Informatics Association Annual Symposium (AMIA 2025).*  [[Paper](https://arxiv.org/pdf/2507.07339)]   
@@ -121,15 +125,9 @@ __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.
 *INFORMS Annual Meeting 2024 (Invited Talk)*. [2024-10-21, Seattle, WA, USA] [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2024.pdf)]
 
 ## Ongoing/Submitted Works
-* Interpretable Heart Transplant Mortality Prediction and Benchmarking.  
+* Prediction of Mortality Risk After Adult Heart Transplantation Using the UNOS Registry.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.   
-
-* LLM-Empowered Medical Patient Communication: A Data-Centric Survey From a Clinical Perspective.  
-Ruosi Shao, Md Shamim Seraj*, Kangyi Zhao*, __Yingtao Luo__*, Lincan Li, Bolin Shen, Averi Bates, Yue Zhao, Chongle Pan, Lisa Hightow-Weidman, Shayok Chakraborty, Yushun Dong.
 
 * Self-Evolving Agentic LLMs for Financial Sentiment Analysis through Reflective Reasoning.  
 Kangyi Zhao, Xinyu Wei, Luojia Liu, Shuwei Liu, Manqi Cai, Yushun Dong, __Yingtao Luo__.   
-
-* Using LLMs to detect statistical anomalies in real-world data: Combining Glass-box learning with Generative AI.  
-Benjamin Lengerich, Sebastian Bordt, __Yingtao Luo__, Mark E. Nunnally, Ryan Crowley, William R. Small, Theodore M. Hill, Rich Caruana.  
 
