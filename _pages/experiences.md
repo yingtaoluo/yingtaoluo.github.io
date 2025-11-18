@@ -17,6 +17,7 @@ Education
 
 Awards
 ======
+* AMIA Best Student Paper Finalist, 2025.
 * [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/), 2025.  
 * CMU GSA Scholarly Project Funding, 2025.
 * [CMU CMLH Translational Fellowship in Digital Health](https://www.cs.cmu.edu/cmlh/translational-fellows), 2023.
