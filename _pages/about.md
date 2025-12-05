@@ -16,4 +16,4 @@ I am very grateful for my collaborators and all the other great people from whom
 ## Methodology Interest
 Sequential Decision-Making: Reinforcement learning agents capable of adaptive reasoning, self-evolution, and human alignment.
 
-LLM Agents and Foundation Models: Multimodal large language models, agentic deep research systems, as well as large embedding model for retrieval. 
+LLM Agents and Foundation Models: Post-training and fine-tuning of multimodal large language models, agentic deep research systems, as well as large embedding model for efficient retrieval. 
