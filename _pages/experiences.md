@@ -17,10 +17,11 @@ Education
 
 Awards
 ======
+* [CMU CMLH Fellowship in Generative AI](https://www.cs.cmu.edu/cmlh/), 2025.
 * AMIA Best Student Paper Finalist, 2025.
 * [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/), 2025.  
 * CMU GSA Scholarly Project Funding, 2025.
-* [CMU CMLH Translational Fellowship in Digital Health](https://www.cs.cmu.edu/cmlh/translational-fellows), 2023.
+* [CMU CMLH Translational Fellowship in Digital Health](https://www.cs.cmu.edu/cmlh/), 2023.
 * CMU GSA Conference Scholarship, 2023.
 * NSF Student Travel Award of ICDM, 2022.
 * [CMU PwC Center Presidential Fellowship](https://www.cmu.edu/risk-reg-center/index.html), 2022.
@@ -42,7 +43,7 @@ Academic Services
   * KDD MILETS Workshop 2023-2025
   * CIKM 2025
   * SDM 2024
-  * ICML 2023-2025
+  * ICML 2023-2026
   * ICML SynS & ML Workshop 2023
   * AISTATS 2025-2026
   * AAAI 2024-2026
@@ -68,7 +69,7 @@ Academic Services
   * INFORMS Member
   * American Society of Transplantation Member
 * Teaching Assistantship
-  * CMU 95891 Introduction to Artificial Intelligence (Fall 2025)
+  * CMU 95891 Introduction to Artificial Intelligence (Fall 2025 & Spring 2026)
   * CMU 94879 Fundamentals of Operationalizing AI (Fall 2025)
   * CMU 94809 Responsible AI (Summer 2025)
   * CMU 90502 Introduction to Python (Summer 2025)
