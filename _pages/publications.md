@@ -21,7 +21,7 @@ Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.
 
 * LLM-Empowered Medical Patient Communication: A Data-Centric Survey From a Clinical Perspective.  
 Ruosi Shao, Md Shamim Seraj\*, Kangyi Zhao\*, __Yingtao Luo__\*, Lincan Li, Bolin Shen, Averi Bates, Yue Zhao, Chongle Pan, Lisa Hightow-Weidman, Shayok Chakraborty, Yushun Dong.  
-*Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025, under ACL Rolling Review).*
+*Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025, with ACL Rolling Review).*
 
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
