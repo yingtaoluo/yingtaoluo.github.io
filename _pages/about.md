@@ -14,6 +14,6 @@ My name is Yingtao Luo (Ying-Tao Luo, 罗颖韬). I am a fourth-year Ph.D. stude
 I am very grateful for my collaborators and all the other great people from whom I learn a lot and get a lot of support. Their impacts have really shaped and transformed who I am now.
 
 ## Methodology Interest
-Sequential Decision-Making: Reinforcement learning agents for planning, reasoning, and human alignment.
+Long-Horizon Sequential Decision-Making: Reinforcement learning agents for planning, reasoning, and human alignment.
 
 LLM Agents and Foundation Models: Post-training and fine-tuning of multimodal large language models, agentic deep research systems, as well as large embedding model for efficient retrieval. 
