@@ -124,10 +124,4 @@ __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
 *INFORMS Annual Meeting 2024 (Invited Talk)*. [2024-10-21, Seattle, WA, USA] [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2024.pdf)]
 
-## Ongoing/Submitted Works
-* Prediction of Mortality Risk After Adult Heart Transplantation Using the UNOS Registry.  
-__Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.   
-
-* Self-Evolving Agentic LLMs for Financial Sentiment Analysis through Reflective Reasoning.  
-Kangyi Zhao, Xinyu Wei, Luojia Liu, Shuwei Liu, Manqi Cai, Yushun Dong, __Yingtao Luo__.   
 
