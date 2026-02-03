@@ -39,7 +39,7 @@ Academic Services
   * ICLR 2022-2026 (Highlighted Reviewer in 2022)
   * WWW 2023
   * WWW AI4TS Workshop 2025
-  * KDD 2023-2025 (Excellent Reviewer in 2025)
+  * KDD 2023-2026 (Excellent Reviewer in 2025)
   * KDD MILETS Workshop 2023-2025
   * CIKM 2025
   * SDM 2024
