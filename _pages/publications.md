@@ -58,6 +58,10 @@ __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.
 *AAAI 2024 Spring Symposium on Clinical Foundation Models*. [[Code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn)]  
 ![AAAI](https://img.shields.io/badge/AAAI-Contributed%20Talk%20(10%2F47)-brightgreen)
 
+* scLong: a billion-parameter foundation model for capturing long-range gene context in single-cell transcriptomics.  
+ Ding Bai, Shentong Mo, Ruiyi Zhang, __Yingtao Luo__, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, Pengtao Xie, Eric Xing.   
+*Nature Communications*. 
+
 * GSLB: The Graph Structure Learning Benchmark.  
 Zhixun Li, Liang Wang, Xin Sun, Yifan Luo, Yanqiao Zhu, Dingshuo Chen,  
 __Yingtao Luo__, Xiangxin Zhou, Qiang Liu, Shu Wu, Liang Wang, Jeffrey Xu Yu.  
