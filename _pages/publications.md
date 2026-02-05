@@ -60,7 +60,7 @@ __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.
 
 * scLong: a billion-parameter foundation model for capturing long-range gene context in single-cell transcriptomics.  
  Ding Bai, Shentong Mo, Ruiyi Zhang, __Yingtao Luo__, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, Pengtao Xie, Eric Xing.   
-*Nature Communications*. 
+*Nature Communications*. [[Paper](https://doi.org/10.1038/s41467-026-69102-y)]
 
 * GSLB: The Graph Structure Learning Benchmark.  
 Zhixun Li, Liang Wang, Xin Sun, Yifan Luo, Yanqiao Zhu, Dingshuo Chen,  
