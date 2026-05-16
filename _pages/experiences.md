@@ -43,7 +43,7 @@ Academic Services
   * KDD MILETS Workshop 2023-2025
   * CIKM 2025
   * SDM 2024
-  * ICML 2023-2026
+  * ICML 2023-2026 (Gold Reviewer in 2026)
   * ICML SynS & ML Workshop 2023
   * AISTATS 2025-2026
   * AAAI 2024-2026
