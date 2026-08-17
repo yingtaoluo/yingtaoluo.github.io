@@ -69,8 +69,8 @@ Academic Services
   * INFORMS Member
   * American Society of Transplantation Member
 * Teaching Assistantship
-  * CMU 95891 Introduction to Artificial Intelligence (Fall 2025 & Spring 2026)
-  * CMU 94879 Fundamentals of Operationalizing AI (Fall 2025)
+  * CMU 95891 Introduction to Artificial Intelligence (Fall 2025, Spring 2026, Fall 2026)
+  * CMU 94879 Fundamentals of Operationalizing AI (Fall 2025, Fall 2026)
   * CMU 94809 Responsible AI (Summer 2025)
   * CMU 90502 Introduction to Python (Summer 2025)
   * CMU [10403](https://cmudeeprl.github.io/403website_s25/) Deep Reinforcement Learning (Spring 2025)
