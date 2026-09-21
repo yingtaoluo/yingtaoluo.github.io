@@ -14,14 +14,22 @@ author_profile: true
 \* Equal Contribution  
 <> Additional Presentation at a Workshop  
 
-## Journals and Conference Proceedings
+## Conference Proceedings
+* Learning When to Think: Utility-Guided Adaptive Reasoning for Efficient Text Retrieval.  
+Yingtao Luo, Kangyi Zhao, Shiyi Du, Yubo Li.  
+*Conference on Empirical Methods in Natural Language Processing (EMNLP 2026).*
+
+* Can Workflow Search Be Amortized? Demonstration-Guided Synthesis of LLM Agent Workflows.  
+Shiyi Du, Jiayuan Liu, Weihua Du, Yue Huang, Jiayi Li, __Yingtao Luo__, Xiangliang Zhang, Vincent Conitzer, Carl Kingsford.  
+*Conference on Empirical Methods in Natural Language Processing (EMNLP 2026).*
+
 * Medical Deep Research: Orchestrating Large Language Model Agents and Resources for Medical Investigation.  
-Yuan Li, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__.  
+Yuan Li\*, Hengjin Zhu, Claire Liu, Matthew Pan, __Yingtao Luo__\*.  
 *NeurIPS 2025 GenAI4Health Workshop.*  [[Code](https://github.com/Clinical-Copilot/Medical_Deep_Research)]
 
 * LLM-Empowered Medical Patient Communication: A Data-Centric Survey From a Clinical Perspective.  
 Ruosi Shao, Md Shamim Seraj\*, Kangyi Zhao\*, __Yingtao Luo__\*, Lincan Li, Bolin Shen, Averi Bates, Yue Zhao, Chongle Pan, Lisa Hightow-Weidman, Shayok Chakraborty, Yushun Dong.  
-*Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025, with ACL Rolling Review).*
+*Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025).*
 
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
@@ -38,7 +46,7 @@ __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.
 
 * Your Diffusion Model is Secretly a Noise Classifier and Benefits from Contrastive Training.  
 Yunshu Wu, __Yingtao Luo__, Xianghao Kong, Evangelos E. Papalexakis, Greg Ver Steeg.  
-*Advances in Neural Information Processing Systems 37 (NeurIPS 2024).* [[Code](https://github.com/yunshuwu/ContrastiveDiffusionLoss)] [[Paper](https://openreview.net/forum?id=RE7wPI4vfT)]
+*Advances in Neural Information Processing Systems (NeurIPS 2024).* [[Code](https://github.com/yunshuwu/ContrastiveDiffusionLoss)] [[Paper](https://openreview.net/forum?id=RE7wPI4vfT)]
 
 * From One to Zero: RAG-IM Adapts Language Models for Interpretable Zero-Shot Predictions on Clinical Tabular Data.  
 Sazan Mahbub, Caleb Ellington, Sina Alinejad, Kevin Wen, __Yingtao Luo__, Ben Lengerich, Eric P Xing.  
@@ -58,14 +66,10 @@ __Yingtao Luo__, Zhixun Li, Qiang Liu, Jun Zhu.
 *AAAI 2024 Spring Symposium on Clinical Foundation Models*. [[Code](https://github.com/yingtaoluo/Graph-of-Gradient/)] [[Paper](https://openreview.net/forum?id=5NJp8WZ0Dn)]  
 ![AAAI](https://img.shields.io/badge/AAAI-Contributed%20Talk%20(10%2F47)-brightgreen)
 
-* scLong: a billion-parameter foundation model for capturing long-range gene context in single-cell transcriptomics.  
- Ding Bai, Shentong Mo, Ruiyi Zhang, __Yingtao Luo__, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, Pengtao Xie, Eric Xing.   
-*Nature Communications*. [[Paper](https://doi.org/10.1038/s41467-026-69102-y)]
-
 * GSLB: The Graph Structure Learning Benchmark.  
 Zhixun Li, Liang Wang, Xin Sun, Yifan Luo, Yanqiao Zhu, Dingshuo Chen,  
 __Yingtao Luo__, Xiangxin Zhou, Qiang Liu, Shu Wu, Liang Wang, Jeffrey Xu Yu.  
-*Advances in Neural Information Processing Systems 36 (NeurIPS 2023).* [[Code](https://github.com/GSL-Benchmark/GSLB)] [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/60bc87f3cf5257579435d92ec12c761b-Paper-Datasets_and_Benchmarks.pdf)]
+*Advances in Neural Information Processing Systems (NeurIPS 2023).* [[Code](https://github.com/GSL-Benchmark/GSLB)] [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/60bc87f3cf5257579435d92ec12c761b-Paper-Datasets_and_Benchmarks.pdf)]
   
 * Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations.  
 __Yingtao Luo\*__, Qiang Liu\*, Yuntian Chen, Wenbo Hu, Tian Tian, Jun Zhu.  
@@ -90,17 +94,27 @@ __Yingtao Luo__, Zhaocheng Liu, Qiang Liu.
 __Yingtao Luo__, Chang Xu, Yang Liu, Weiqing Liu, Shun Zheng, Jiang Bian.  
 *ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022)*.  [[Paper](https://doi.org/10.1145/3534678.3539245)] [[Poster](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/LDO_poster.pdf)]  
 
-* Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
-Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  
-*Physical Review Research*. [[Code](https://github.com/YuntianChen/SGA-PDE)]  [[PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.023174)]  [[Paper](https://doi.org/10.1103/PhysRevResearch.4.023174)] [[media (机器之心)](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650848139&idx=4&sn=2e5b6578eba657f34871dcf365a288a4&chksm=84e57ff5b392f6e3cbc91fe49d3947824ac7b4d9c7221b9b84ce51a8f0effb1541f35b971145&mpshare=1&scene=24&srcid=0613OlNUYpsdL23cCoDUQxh6&sharer_sharetime=1655123628611&sharer_shareid=4dd9eb6cb1a869d65c4c84d36c4c5186&ascene=14&devicetype=android-29&version=28002357&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&countrycode=US&exportkey=n_ChQIAhIQwQYwfEQItITx%2FvrRWt15ZRLsAQIE97dBBAEAAAAAACsoDa14%2FLUAAAAOpnltbLcz9gKNyK89dVj0fO6UJZ5qnYFTkrzP0tVYmAMW6LbRvvfxjyo%2B%2BDMeVLJSoW1IncmlvSQIKJ7ngkmunbNHHExYpF47aOAvaLcmU37ulrLHVWTXFurV2KuNpAk3X1bpuSMjLwZ3Nfx5vhvJcrBGqTrwZTbsQRYaRafsl6qMLkESb3ekh4vmA2YhUACsCYqYEFel8KffkfV89Uk0K866pKlr3Txb7pOXpxmsdk%2Fkom0kVcSIX2ZW3M6iI89Zgq%2B1QjL%2BiT158XMEscaQ7ZiiRS0h&pass_ticket=6vQfl0nMeqC98Hvn2lWXEeWolWrKumwWtUR1leSCwl4Wh2bfNhY3Hr529eahds%2FQVVl%2B0UVQNIXfVMHeodCU1Q%3D%3D&wx_header=3)]
-
-* RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring.  
-Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wang.  
-*IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[Paper](https://doi.org/10.1109/TKDE.2022.3179025)] 
-
 * STAN: Spatio-Temporal Attention Network for the Next Location Recommendation.  
 __Yingtao Luo__, Qiang Liu, Zhaocheng Liu.  
 *The Web Conference (WWW 2021)*. [[Code](https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation)] [[Paper](https://doi.org/10.1145/3442381.3449998)] [[talk](https://www.youtube.com/watch?v=ajNzESvOvzs)] [[media (AI科技评论)](https://mp.weixin.qq.com/s/4WQtyvl5Mh9VdLQ8fCCsxg)].
+
+
+## Journals
+* Expanded UNOS Registry Variables Provide Limited Incremental Value for Mortality Prediction After Heart Transplantation.  
+__Yingtao Luo__, Reza Skandari, Arman Kilic, Rema Padman.  
+*Under revision at Scientific Reports (Nature Portfolio Journal)*. [[code](https://github.com/yingtaoluo/Heart-TXP-Mortality-Prediction)]
+
+* scLong: a billion-parameter foundation model for capturing long-range gene context in single-cell transcriptomics.  
+ Ding Bai, Shentong Mo, Ruiyi Zhang, __Yingtao Luo__, Jiahao Gao, Jeremy Parker Yang, Qiuyang Wu, Hamidreza Rahmani, Tiffany Amariuta, Danielle Grotjahn, Sheng Zhong, Nathan Lewis, Wei Wang, Trey Ideker, Pengtao Xie, Eric Xing.   
+*Nature Communications*. [[Paper](https://doi.org/10.1038/s41467-026-69102-y)]
+
+* RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring.  
+Qiang Liu, __Yingtao Luo__, Shu Wu, Zhen Zhang, Xiangnan Yue, Hong Jin, Liang Wang.  
+*IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE)*. [[Paper](https://doi.org/10.1109/TKDE.2022.3179025)]
+
+* Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE).  
+Yuntian Chen, __Yingtao Luo__, Qiang Liu, Hao Xu, Dongxiao Zhang.  
+*Physical Review Research*. [[Code](https://github.com/YuntianChen/SGA-PDE)]  [[PDF](https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.023174)]  [[Paper](https://doi.org/10.1103/PhysRevResearch.4.023174)] [[media (机器之心)](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650848139&idx=4&sn=2e5b6578eba657f34871dcf365a288a4&chksm=84e57ff5b392f6e3cbc91fe49d3947824ac7b4d9c7221b9b84ce51a8f0effb1541f35b971145&mpshare=1&scene=24&srcid=0613OlNUYpsdL23cCoDUQxh6&sharer_sharetime=1655123628611&sharer_shareid=4dd9eb6cb1a869d65c4c84d36c4c5186&ascene=14&devicetype=android-29&version=28002357&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&countrycode=US&exportkey=n_ChQIAhIQwQYwfEQItITx%2FvrRWt15ZRLsAQIE97dBBAEAAAAAACsoDa14%2FLUAAAAOpnltbLcz9gKNyK89dVj0fO6UJZ5qnYFTkrzP0tVYmAMW6LbRvvfxjyo%2B%2BDMeVLJSoW1IncmlvSQIKJ7ngkmunbNHHExYpF47aOAvaLcmU37ulrLHVWTXFurV2KuNpAk3X1bpuSMjLwZ3Nfx5vhvJcrBGqTrwZTbsQRYaRafsl6qMLkESb3ekh4vmA2YhUACsCYqYEFel8KffkfV89Uk0K866pKlr3Txb7pOXpxmsdk%2Fkom0kVcSIX2ZW3M6iI89Zgq%2B1QjL%2BiT158XMEscaQ7ZiiRS0h&pass_ticket=6vQfl0nMeqC98Hvn2lWXEeWolWrKumwWtUR1leSCwl4Wh2bfNhY3Hr529eahds%2FQVVl%2B0UVQNIXfVMHeodCU1Q%3D%3D&wx_header=3)]
 
 * Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures.  
 __Ying-Tao Luo__, Peng-Qi Li, Dong-Ting Li, Yu-Gui Peng, Zhi-Guo Geng,  
@@ -111,10 +125,11 @@ Shu-Huan Xie, Yong Li, Andrea Alù, Jie Zhu, Xue-Feng Zhu.
 Ziyang Zhang\*, __Yingtao Luo\*__, Huawen Peng, Yu Chen, Rong-Zhen Liao, Qiang Zhao.  
 *Journal of Membrane Science. <NeurIPS 2020 ML4Mol>*. [[Code](https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning)]  [[Paper](https://doi.org/10.1016/j.memsci.2020.118910)]
 
-## Conference Abtracts and Talks
+
+## Invited Talks
 * Learning from Simulated Patient Trajectories: A Sequential Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
-*INFORMS Annual Meeting 2025 (Invited Talk)*. [2025-10-26, Atlanta, GA, USA] [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2025.pdf)]
+*INFORMS Annual Meeting 2025*. [2025-10-26, Atlanta, GA, USA] [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2025.pdf)]
 
 * Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New UNOS Dataset.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.   
@@ -122,10 +137,10 @@ __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.
 
 * On Interpretable Heart Transplant Mortality Prediction and Benchmarking.  
 __Yingtao Luo__, Rema Padman, Carlos Martinez, Reza Skandari, Arman Kilic.  
-*World Transplant Congress 2025 (Oral Presentation)*. [2025-08-03, San Francisco, CA, USA] [[Abstract](https://www.amjtransplant.org/article/S1600-6135(25)00510-6/fulltext)]
+*World Transplant Congress 2025*. [2025-08-03, San Francisco, CA, USA] [[Abstract](https://www.amjtransplant.org/article/S1600-6135(25)00510-6/fulltext)]
 
 * Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation.  
 __Yingtao Luo__, Rema Padman, Reza Skandari, Arman Kilic.  
-*INFORMS Annual Meeting 2024 (Invited Talk)*. [2024-10-21, Seattle, WA, USA] [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2024.pdf)]
+*INFORMS Annual Meeting 2024*. [2024-10-21, Seattle, WA, USA] [[Abstract](https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2024.pdf)]
 
 
