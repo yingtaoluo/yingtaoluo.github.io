@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## Biography
-My name is Yingtao Luo (Ying-Tao Luo, 罗颖韬). I am a final-year Ph.D. candidate in Machine Learning (joint program) at Carnegie Mellon University, affiliated with [Heinz College](https://www.heinz.cmu.edu/) and [Machine Learning Department](https://www.ml.cmu.edu/people/phd-students.html)) at Carnegie Mellon University. 
+My name is Yingtao Luo (Ying-Tao Luo, 罗颖韬). I am a final-year Ph.D. candidate in Machine Learning (joint program) at Carnegie Mellon University, affiliated with [Heinz College](https://www.heinz.cmu.edu/) and [Machine Learning Department](https://www.ml.cmu.edu/people/phd-students.html). 
 
 My research broadly focuses on LLM post-training, generative retrieval, personal agents, long-horizon sequence learning, and reinforcement learning.
 
