@@ -30,8 +30,11 @@ Awards
 * Meritorious Winner of Interdisciplinary Contest of Modeling (Top 9% globally), 2018
 * 1st Prize of China Mathematical Modeling Contest (Top 1% nationwide), 2017
 
-Academic Services
+Events
 ======
+* Invited Speaker:
+  * Meta PhD Forum 2025
+  * INFORMS 2024, 2025, 2026
 * Conference PC Member and/or Reviewer:
   * NeurIPS 2022-2025
   * NeurIPS ML4PS Workshop 2021-2025
