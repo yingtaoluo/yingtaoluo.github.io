@@ -36,7 +36,7 @@ Events
   * Meta PhD Forum 2025
   * INFORMS 2024, 2025, 2026
 * Conference PC Member and/or Reviewer:
-  * NeurIPS 2022-2025
+  * NeurIPS 2022-2026 (Top Reviewer in 2026)
   * NeurIPS ML4PS Workshop 2021-2025
   * NeurIPS ML4Mol Workshop 2021
   * ICLR 2022-2026 (Highlighted Reviewer in 2022)
