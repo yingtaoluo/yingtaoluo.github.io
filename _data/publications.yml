@@ -1,0 +1,519 @@
+# Publication data for /publications/. Edit here to add or update a paper.
+# An asterisk following a name indicates equal contribution.
+# Papers with >7 authors automatically get a clickable full author list.
+- id: preprints
+  title: Preprints
+  papers:
+  - title: 'PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas'
+    venue: ACL ARR
+    venue_full: Submitted to ACL ARR Oct (NAACL 2027).
+    authors:
+    - Haoming Li
+    - Defu Cao
+    - Xu Hu
+    - Yingtao Luo
+    - Yiyang Wang
+    - Jade Xu
+    - Jiashu He
+    - Wanting Jiang
+    - Yifan Zhang
+    - Yunhan Zhao
+    - Siyang Wu
+    - Chen Yang
+    - Haixin Wang
+    - Zheyuan Deng
+    - Taoran Li
+    - Jingwen Zhang
+    - Zhejian Peng
+    - Shushu Liang
+    - Yue Zhao
+    - Bingzhe Li
+    - Feng Chen
+    - Yifan Wang
+    - Jintao Huang
+    - Yijun Wang
+    - Xiaomin Li
+    - Yuexing Hao
+    type: Submitted
+- id: conference
+  title: Conference Proceedings
+  papers:
+  - title: 'Learning When to Think: Utility-Guided Adaptive Reasoning for Efficient Text Retrieval'
+    venue: EMNLP 2026
+    venue_full: Conference on Empirical Methods in Natural Language Processing (EMNLP 2026).
+    authors:
+    - Yingtao Luo
+    - Kangyi Zhao
+    - Shiyi Du
+    - Yubo Li
+  - title: Can Workflow Search Be Amortized? Demonstration-Guided Synthesis of LLM Agent Workflows
+    venue: EMNLP 2026
+    venue_full: Conference on Empirical Methods in Natural Language Processing (EMNLP 2026).
+    authors:
+    - Shiyi Du
+    - Jiayuan Liu
+    - Weihua Du
+    - Yue Huang
+    - Jiayi Li
+    - Yingtao Luo
+    - Xiangliang Zhang
+    - Vincent Conitzer
+    - Carl Kingsford
+  - title: 'Medical Deep Research: Orchestrating Large Language Model Agents and Resources for Medical Investigation'
+    venue: NeurIPS 2025
+    venue_full: NeurIPS 2025 GenAI4Health Workshop.
+    authors:
+    - Yuan Li*
+    - Hengjin Zhu
+    - Claire Liu
+    - Matthew Pan
+    - Yingtao Luo*
+    type: Workshop
+    links:
+    - label: Code
+      url: https://github.com/Clinical-Copilot/Medical_Deep_Research
+  - title: 'LLM-Empowered Medical Patient Communication: A Data-Centric Survey From a Clinical Perspective'
+    venue: AACL 2025
+    venue_full: Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025).
+    authors:
+    - Ruosi Shao
+    - Md Shamim Seraj*
+    - Kangyi Zhao*
+    - Yingtao Luo*
+    - Lincan Li
+    - Bolin Shen
+    - Averi Bates
+    - Yue Zhao
+    - Chongle Pan
+    - Lisa Hightow-Weidman
+    - Shayok Chakraborty
+    - Yushun Dong
+  - title: Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal
+      UNOS Dataset
+    venue: AMIA 2025
+    venue_full: American Medical Informatics Association Annual Symposium (AMIA 2025).
+    authors:
+    - Yingtao Luo
+    - Rema Padman
+    - Carlos Martinez
+    - Reza Skandari
+    - Arman Kilic
+    type: Symposium
+    awards:
+    - Best Student Paper Finalist (8/166)
+    title_url: https://arxiv.org/pdf/2507.07339
+    links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2507.07339
+  - title: Physics-Guided Learning of Meteorological Dynamics for Weather Downscaling and Forecasting
+    venue: KDD 2025
+    venue_full: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
+    authors:
+    - Yingtao Luo
+    - Shikai Fang
+    - Binqing Wu
+    - Qingsong Wen
+    - Liang Sun
+    title_url: https://arxiv.org/pdf/2505.14555
+    links:
+    - label: Code
+      url: https://github.com/yingtaoluo/PhyDL-NWP
+    - label: Paper
+      url: https://arxiv.org/pdf/2505.14555
+    - label: DOI
+      url: https://doi.org/10.1145/3711896.3737081
+  - title: Fairness without Demographics through Learning Graph of Gradients
+    venue: KDD 2025
+    venue_full: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2025).
+    authors:
+    - Yingtao Luo
+    - Zhixun Li
+    - Qiang Liu
+    - Jun Zhu
+    title_url: https://arxiv.org/pdf/2412.03706
+    links:
+    - label: Code
+      url: https://github.com/yingtaoluo/Graph-of-Gradient/
+    - label: Paper
+      url: https://arxiv.org/pdf/2412.03706
+    - label: DOI
+      url: https://doi.org/10.1145/3690624.3709160
+  - title: Your Diffusion Model is Secretly a Noise Classifier and Benefits from Contrastive Training
+    venue: NeurIPS 2024
+    venue_full: Advances in Neural Information Processing Systems (NeurIPS 2024).
+    authors:
+    - Yunshu Wu
+    - Yingtao Luo
+    - Xianghao Kong
+    - Evangelos E. Papalexakis
+    - Greg Ver Steeg
+    title_url: https://openreview.net/forum?id=RE7wPI4vfT
+    links:
+    - label: Code
+      url: https://github.com/yunshuwu/ContrastiveDiffusionLoss
+    - label: Paper
+      url: https://openreview.net/forum?id=RE7wPI4vfT
+  - title: 'From One to Zero: RAG-IM Adapts Language Models for Interpretable Zero-Shot Predictions on Clinical
+      Tabular Data'
+    venue: ML4H 2024
+    venue_full: Machine Learning for Health Symposium 2024. <NeurIPS 2024 TRL & AFM>.
+    authors:
+    - Sazan Mahbub
+    - Caleb Ellington
+    - Sina Alinejad
+    - Kevin Wen
+    - Yingtao Luo
+    - Ben Lengerich
+    - Eric P Xing
+    type: Symposium
+    title_url: https://openreview.net/forum?id=BnKvIn8JKl
+    links:
+    - label: Paper
+      url: https://openreview.net/forum?id=BnKvIn8JKl
+  - title: 'Contextualized Policy Recovery: Modeling and Interpreting Medical Decisions with Adaptive Imitation
+      Learning'
+    venue: ICML 2024
+    venue_full: International Conference on Machine Learning (ICML 2024).
+    authors:
+    - Jannik Deuschel*
+    - Caleb N Ellington*
+    - Yingtao Luo
+    - Benjamin J Lengerich
+    - Pascal Friederich
+    - Eric P Xing
+    title_url: https://openreview.net/forum?id=YEQM0asWCH
+    links:
+    - label: Code
+      url: https://github.com/JADEUSC/contextualized_policy_recovery
+    - label: Paper
+      url: https://openreview.net/forum?id=YEQM0asWCH
+  - title: 'BayOTIDE: Bayesian Online Multivariate Time Series Imputation with Functional Decomposition'
+    venue: ICML 2024
+    venue_full: International Conference on Machine Learning (ICML 2024) [Spotlight Paper (191/9473)].
+    authors:
+    - Shikai Fang
+    - Qingsong Wen
+    - Yingtao Luo
+    - Shandian Zhe
+    - Liang Sun
+    awards:
+    - Spotlight (191/9473)
+    title_url: https://openreview.net/forum?id=aGBpiEcB8z
+    links:
+    - label: Code
+      url: https://github.com/xuangu-fang/BayOTIDE
+    - label: Paper
+      url: https://openreview.net/forum?id=aGBpiEcB8z
+  - title: Fairness without Demographics on Electronic Health Records
+    venue: AAAI 2024
+    venue_full: AAAI 2024 Spring Symposium on Clinical Foundation Models.
+    authors:
+    - Yingtao Luo
+    - Zhixun Li
+    - Qiang Liu
+    - Jun Zhu
+    type: Symposium
+    awards:
+    - Contributed Talk (10/47)
+    title_url: https://openreview.net/forum?id=5NJp8WZ0Dn
+    links:
+    - label: Code
+      url: https://github.com/yingtaoluo/Graph-of-Gradient/
+    - label: Paper
+      url: https://openreview.net/forum?id=5NJp8WZ0Dn
+  - title: 'GSLB: The Graph Structure Learning Benchmark'
+    venue: NeurIPS 2023
+    venue_full: Advances in Neural Information Processing Systems (NeurIPS 2023).
+    authors:
+    - Zhixun Li
+    - Liang Wang
+    - Xin Sun
+    - Yifan Luo
+    - Yanqiao Zhu
+    - Dingshuo Chen
+    - Yingtao Luo
+    - Xiangxin Zhou
+    - Qiang Liu
+    - Shu Wu
+    - Liang Wang
+    - Jeffrey Xu Yu
+    title_url: https://proceedings.neurips.cc/paper_files/paper/2023/file/60bc87f3cf5257579435d92ec12c761b-Paper-Datasets_and_Benchmarks.pdf
+    links:
+    - label: Code
+      url: https://github.com/GSL-Benchmark/GSLB
+    - label: Paper
+      url: https://proceedings.neurips.cc/paper_files/paper/2023/file/60bc87f3cf5257579435d92ec12c761b-Paper-Datasets_and_Benchmarks.pdf
+  - title: Physics-Guided Discovery of Highly Nonlinear Parametric Partial Differential Equations
+    venue: KDD 2023
+    venue_full: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2023). <NeurIPS 2022 AI for Science>.
+    authors:
+    - Yingtao Luo*
+    - Qiang Liu*
+    - Yuntian Chen
+    - Wenbo Hu
+    - Tian Tian
+    - Jun Zhu
+    title_url: https://doi.org/10.1145/3580305.3599466
+    links:
+    - label: Code
+      url: https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery
+    - label: Paper
+      url: https://doi.org/10.1145/3580305.3599466
+  - title: Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training
+    venue: IEEE TKDE
+    venue_full: IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
+    authors:
+    - Juyong Jiang*
+    - Peiyan Zhang*
+    - Yingtao Luo*
+    - Chaozhuo Li
+    - Jae Boum Kim
+    - Kai Zhang
+    - Senzhang Wang
+    - Sunghun Kim
+    - Philip S. Yu
+    type: Journal
+    title_url: https://doi.org/10.1109/TKDE.2025.3546035
+    links:
+    - label: Code
+      url: https://github.com/juyongjiang/BARec
+    - label: Paper
+      url: https://doi.org/10.1109/TKDE.2025.3546035
+  - title: 'AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation'
+    venue: CIKM 2023
+    venue_full: ACM International Conference on Information and Knowledge Management (CIKM 2023).
+    authors:
+    - Juyong Jiang*
+    - Peiyan Zhang*
+    - Yingtao Luo
+    - Chaozhuo Li
+    - Jaeboum Kim
+    - Kai Zhang
+    - Senzhang Wang
+    - Xing Xie
+    - Sunghun Kim
+    title_url: https://doi.org/10.1145/3583780.3614773
+    links:
+    - label: Code
+      url: https://github.com/juyongjiang/AdaMCT
+    - label: Paper
+      url: https://doi.org/10.1145/3583780.3614773
+  - title: Deep Stable Representation Learning on Electronic Health Records
+    venue: ICDM 2022
+    venue_full: IEEE International Conference on Data Mining (ICDM 2022).
+    authors:
+    - Yingtao Luo
+    - Zhaocheng Liu
+    - Qiang Liu
+    title_url: https://doi.org/10.1109/ICDM54844.2022.00134
+    links:
+    - label: Code
+      url: https://github.com/yingtaoluo/Causal-Healthcare-Emebedding
+    - label: Paper
+      url: https://doi.org/10.1109/ICDM54844.2022.00134
+    - label: arXiv
+      url: https://arxiv.org/abs/2209.01321
+  - title: Learning differential operators for interpretable time series modeling
+    venue: KDD 2022
+    venue_full: ACM SIGKDD Conference on Knowledge Discovery and Data Mining (KDD 2022).
+    authors:
+    - Yingtao Luo
+    - Chang Xu
+    - Yang Liu
+    - Weiqing Liu
+    - Shun Zheng
+    - Jiang Bian
+    title_url: https://doi.org/10.1145/3534678.3539245
+    links:
+    - label: Paper
+      url: https://doi.org/10.1145/3534678.3539245
+    - label: Poster
+      url: https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/LDO_poster.pdf
+  - title: 'STAN: Spatio-Temporal Attention Network for the Next Location Recommendation'
+    venue: WWW 2021
+    venue_full: The Web Conference (WWW 2021)..
+    authors:
+    - Yingtao Luo
+    - Qiang Liu
+    - Zhaocheng Liu
+    title_url: https://doi.org/10.1145/3442381.3449998
+    links:
+    - label: Code
+      url: https://github.com/yingtaoluo/Spatial-Temporal-Attention-Network-for-POI-Recommendation
+    - label: Paper
+      url: https://doi.org/10.1145/3442381.3449998
+    - label: talk
+      url: https://www.youtube.com/watch?v=ajNzESvOvzs
+    - label: media (AI科技评论)
+      url: https://mp.weixin.qq.com/s/4WQtyvl5Mh9VdLQ8fCCsxg
+- id: journals
+  title: Journals
+  papers:
+  - title: Expanded UNOS Registry Variables Provide Limited Incremental Value for Mortality Prediction After Heart
+      Transplantation
+    venue: Scientific Reports
+    venue_full: Under revision at Scientific Reports (Nature Portfolio Journal).
+    authors:
+    - Yingtao Luo
+    - Reza Skandari
+    - Arman Kilic
+    - Rema Padman
+    type: Under revision
+    links:
+    - label: code
+      url: https://github.com/yingtaoluo/Heart-TXP-Mortality-Prediction
+  - title: 'scLong: a billion-parameter foundation model for capturing long-range gene context in single-cell transcriptomics'
+    venue: Nature Communications
+    venue_full: Nature Communications.
+    authors:
+    - Ding Bai
+    - Shentong Mo
+    - Ruiyi Zhang
+    - Yingtao Luo
+    - Jiahao Gao
+    - Jeremy Parker Yang
+    - Qiuyang Wu
+    - Hamidreza Rahmani
+    - Tiffany Amariuta
+    - Danielle Grotjahn
+    - Sheng Zhong
+    - Nathan Lewis
+    - Wei Wang
+    - Trey Ideker
+    - Pengtao Xie
+    - Eric Xing
+    type: Journal
+    title_url: https://doi.org/10.1038/s41467-026-69102-y
+    links:
+    - label: Paper
+      url: https://doi.org/10.1038/s41467-026-69102-y
+  - title: 'RMT-Net: Reject-aware Multi-Task Network for Financial Credit Scoring'
+    venue: IEEE TKDE
+    venue_full: IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
+    authors:
+    - Qiang Liu
+    - Yingtao Luo
+    - Shu Wu
+    - Zhen Zhang
+    - Xiangnan Yue
+    - Hong Jin
+    - Liang Wang
+    type: Journal
+    title_url: https://doi.org/10.1109/TKDE.2022.3179025
+    links:
+    - label: Paper
+      url: https://doi.org/10.1109/TKDE.2022.3179025
+  - title: Symbolic genetic algorithm for discovering open-form partial differential equations (SGA-PDE)
+    venue: Physical Review Research
+    venue_full: Physical Review Research.
+    authors:
+    - Yuntian Chen
+    - Yingtao Luo
+    - Qiang Liu
+    - Hao Xu
+    - Dongxiao Zhang
+    type: Journal
+    title_url: https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.023174
+    links:
+    - label: Code
+      url: https://github.com/YuntianChen/SGA-PDE
+    - label: PDF
+      url: https://journals.aps.org/prresearch/pdf/10.1103/PhysRevResearch.4.023174
+    - label: Paper
+      url: https://doi.org/10.1103/PhysRevResearch.4.023174
+    - label: media (机器之心)
+      url: https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650848139&idx=4&sn=2e5b6578eba657f34871dcf365a288a4&chksm=84e57ff5b392f6e3cbc91fe49d3947824ac7b4d9c7221b9b84ce51a8f0effb1541f35b971145&mpshare=1&scene=24&srcid=0613OlNUYpsdL23cCoDUQxh6&sharer_sharetime=1655123628611&sharer_shareid=4dd9eb6cb1a869d65c4c84d36c4c5186&ascene=14&devicetype=android-29&version=28002357&nettype=WIFI&abtest_cookie=AAACAA%3D%3D&lang=en&countrycode=US&exportkey=n_ChQIAhIQwQYwfEQItITx%2FvrRWt15ZRLsAQIE97dBBAEAAAAAACsoDa14%2FLUAAAAOpnltbLcz9gKNyK89dVj0fO6UJZ5qnYFTkrzP0tVYmAMW6LbRvvfxjyo%2B%2BDMeVLJSoW1IncmlvSQIKJ7ngkmunbNHHExYpF47aOAvaLcmU37ulrLHVWTXFurV2KuNpAk3X1bpuSMjLwZ3Nfx5vhvJcrBGqTrwZTbsQRYaRafsl6qMLkESb3ekh4vmA2YhUACsCYqYEFel8KffkfV89Uk0K866pKlr3Txb7pOXpxmsdk%2Fkom0kVcSIX2ZW3M6iI89Zgq%2B1QjL%2BiT158XMEscaQ7ZiiRS0h&pass_ticket=6vQfl0nMeqC98Hvn2lWXEeWolWrKumwWtUR1leSCwl4Wh2bfNhY3Hr529eahds%2FQVVl%2B0UVQNIXfVMHeodCU1Q%3D%3D&wx_header=3
+  - title: Probability-Density-Based Deep Learning Paradigm for the Fuzzy Design of Functional Metastructures
+    venue: Research
+    venue_full: Research (Science Partner Journal). <NeurIPS 2020 ML4PS>.
+    authors:
+    - Ying-Tao Luo
+    - Peng-Qi Li
+    - Dong-Ting Li
+    - Yu-Gui Peng
+    - Zhi-Guo Geng
+    - Shu-Huan Xie
+    - Yong Li
+    - Andrea Alù
+    - Jie Zhu
+    - Xue-Feng Zhu
+    type: Journal
+    title_url: https://doi.org/10.34133/2020/8757403
+    links:
+    - label: Code
+      url: http://github.com/yingtaoluo/Probabilistic-density-network
+    - label: Paper
+      url: https://doi.org/10.34133/2020/8757403
+    - label: media (Science)
+      url: https://mp.weixin.qq.com/s/8nG3hjKBqzqBrquqL-lhbA
+  - title: Deep spatial representation learning of polyamide nanofiltration membranes
+    venue: Journal of Membrane Science
+    venue_full: Journal of Membrane Science. <NeurIPS 2020 ML4Mol>.
+    authors:
+    - Ziyang Zhang*
+    - Yingtao Luo*
+    - Huawen Peng
+    - Yu Chen
+    - Rong-Zhen Liao
+    - Qiang Zhao
+    type: Journal
+    title_url: https://doi.org/10.1016/j.memsci.2020.118910
+    links:
+    - label: Code
+      url: https://github.com/yingtaoluo/Nanofiltration-Membrane-Deep-Learning
+    - label: Paper
+      url: https://doi.org/10.1016/j.memsci.2020.118910
+- id: talks
+  title: Invited Talks
+  papers:
+  - title: 'Learning from Simulated Patient Trajectories: A Sequential Decision-Making Agent for Heart Transplantation'
+    venue: INFORMS Annual Meeting 2025
+    venue_full: INFORMS Annual Meeting 2025. [2025-10-26, Atlanta, GA, USA]
+    authors:
+    - Yingtao Luo
+    - Rema Padman
+    - Carlos Martinez
+    - Reza Skandari
+    - Arman Kilic
+    type: Invited talk
+    links:
+    - label: Abstract
+      url: https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2025.pdf
+  - title: Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New UNOS
+      Dataset
+    venue: MLHC 2025
+    venue_full: Machine Learning for Healthcare (MLHC 2025). [2025-08-15, Rochester, MN, USA]
+    authors:
+    - Yingtao Luo
+    - Rema Padman
+    - Carlos Martinez
+    - Reza Skandari
+    - Arman Kilic
+    links:
+    - label: Abstract
+      url: https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/MLHC2025.pdf
+  - title: On Interpretable Heart Transplant Mortality Prediction and Benchmarking
+    venue: World Transplant Congress 2025
+    venue_full: World Transplant Congress 2025. [2025-08-03, San Francisco, CA, USA]
+    authors:
+    - Yingtao Luo
+    - Rema Padman
+    - Carlos Martinez
+    - Reza Skandari
+    - Arman Kilic
+    type: Invited talk
+    links:
+    - label: Abstract
+      url: https://www.amjtransplant.org/article/S1600-6135(25)00510-6/fulltext
+  - title: Interpretable Mortality Simulation and Decision-Making Agent for Heart Transplantation
+    venue: INFORMS Annual Meeting 2024
+    venue_full: INFORMS Annual Meeting 2024. [2024-10-21, Seattle, WA, USA]
+    authors:
+    - Yingtao Luo
+    - Rema Padman
+    - Reza Skandari
+    - Arman Kilic
+    type: Invited talk
+    links:
+    - label: Abstract
+      url: https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/INFORMS2024.pdf
