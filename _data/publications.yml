@@ -339,7 +339,7 @@
     links:
     - label: code
       url: https://github.com/yingtaoluo/Heart-TXP-Mortality-Prediction
-   - title: Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training
+  - title: Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training
     venue: IEEE TKDE
     venue_full: IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
     authors:
