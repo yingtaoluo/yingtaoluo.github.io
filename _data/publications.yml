@@ -1,12 +1,12 @@
 # Publication data for /publications/. Edit here to add or update a paper.
 # An asterisk following a name indicates equal contribution.
 # Papers with >7 authors automatically get a clickable full author list.
-- id: preprints
-  title: Preprints
+- id: conference
+  title: Conference Proceedings
   papers:
   - title: 'PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas'
-    venue: ACL ARR
-    venue_full: Submitted to ACL ARR Oct (NAACL 2027).
+    venue: NAACL 2027
+    venue_full: Submitted to ACL ARR Oct.
     authors:
     - Haoming Li
     - Defu Cao
@@ -35,9 +35,6 @@
     - Xiaomin Li
     - Yuexing Hao
     type: Submitted
-- id: conference
-  title: Conference Proceedings
-  papers:
   - title: 'Learning When to Think: Utility-Guided Adaptive Reasoning for Efficient Text Retrieval'
     venue: EMNLP 2026
     venue_full: Conference on Empirical Methods in Natural Language Processing (EMNLP 2026).
@@ -259,26 +256,6 @@
       url: https://github.com/yingtaoluo/Highly-Nonlinear-PDE-Discovery
     - label: Paper
       url: https://doi.org/10.1145/3580305.3599466
-  - title: Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training
-    venue: IEEE TKDE
-    venue_full: IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
-    authors:
-    - Juyong Jiang*
-    - Peiyan Zhang*
-    - Yingtao Luo*
-    - Chaozhuo Li
-    - Jae Boum Kim
-    - Kai Zhang
-    - Senzhang Wang
-    - Sunghun Kim
-    - Philip S. Yu
-    type: Journal
-    title_url: https://doi.org/10.1109/TKDE.2025.3546035
-    links:
-    - label: Code
-      url: https://github.com/juyongjiang/BARec
-    - label: Paper
-      url: https://doi.org/10.1109/TKDE.2025.3546035
   - title: 'AdaMCT: Adaptive Mixture of CNN-Transformer for Sequential Recommendation'
     venue: CIKM 2023
     venue_full: ACM International Conference on Information and Knowledge Management (CIKM 2023).
@@ -362,6 +339,26 @@
     links:
     - label: code
       url: https://github.com/yingtaoluo/Heart-TXP-Mortality-Prediction
+   - title: Improving Sequential Recommendations via Bidirectional Temporal Data Augmentation with Pre-training
+    venue: IEEE TKDE
+    venue_full: IEEE Transactions on Knowledge and Data Engineering (IEEE TKDE).
+    authors:
+    - Juyong Jiang*
+    - Peiyan Zhang*
+    - Yingtao Luo*
+    - Chaozhuo Li
+    - Jae Boum Kim
+    - Kai Zhang
+    - Senzhang Wang
+    - Sunghun Kim
+    - Philip S. Yu
+    type: Journal
+    title_url: https://doi.org/10.1109/TKDE.2025.3546035
+    links:
+    - label: Code
+      url: https://github.com/juyongjiang/BARec
+    - label: Paper
+      url: https://doi.org/10.1109/TKDE.2025.3546035
   - title: 'scLong: a billion-parameter foundation model for capturing long-range gene context in single-cell transcriptomics'
     venue: Nature Communications
     venue_full: Nature Communications.
