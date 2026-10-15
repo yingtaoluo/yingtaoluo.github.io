@@ -1,0 +1,36 @@
+/* Publications page. Scoped to .pub-page; works with Minimal Mistakes. */
+.pub-page { --pub-accent:#2563eb; --pub-soft:rgba(37,99,235,.075); --pub-border:rgba(100,116,139,.20); --pub-muted:#667085; --pub-text:inherit; max-width: 900px; }
+.pub-intro { font-size:.9rem; color:var(--pub-muted); margin:0 0 2.1rem; }
+.pub-intro a { color:var(--pub-accent); text-decoration:none; border-bottom:1px solid rgba(37,99,235,.25); }
+.pub-section { margin:2.3rem 0 2.7rem; }
+.pub-section-title { border:0 !important; margin:0 0 .65rem !important; padding:0 0 .65rem !important; font-size:1.45rem !important; font-weight:700 !important; letter-spacing:-.025em; }
+.pub-item { padding:1.23rem 0 1.35rem; border-top:1px solid var(--pub-border); }
+.pub-item:first-of-type { border-top:1px solid var(--pub-border); }
+.pub-meta { display:flex; align-items:center; gap:.55rem; flex-wrap:wrap; margin-bottom:.48rem; }
+.pub-venue-tag { display:inline-flex; align-items:center; padding:.23rem .57rem; border-radius:5px; background:var(--pub-soft); color:var(--pub-accent); font-size:.72rem; font-weight:700; letter-spacing:.018em; line-height:1.45; }
+.pub-type { font-size:.75rem; color:var(--pub-muted); }
+.pub-award { display:inline-flex; align-items:center; border-radius:5px; padding:.22rem .56rem; font-size:.72rem; font-weight:600; background:rgba(16,185,129,.10); color:#047857; }
+.pub-title { margin:0 0 .40rem !important; font-size:1.055rem !important; line-height:1.48 !important; font-weight:680 !important; letter-spacing:-.013em; color:inherit; }
+.pub-title a { color:inherit !important; text-decoration:none !important; border:0 !important; }
+.pub-title a:hover { color:var(--pub-accent) !important; }
+.pub-authors { color:var(--pub-muted); font-size:.835rem; line-height:1.7; margin:0; }
+.pub-authors .pub-me { color:var(--pub-accent); font-weight:700; }
+.pub-author-details { margin:0; }
+.pub-author-details summary { cursor:pointer; list-style:none; outline-offset:3px; }
+.pub-author-details summary::-webkit-details-marker { display:none; }
+.pub-author-details summary::marker { content:""; }
+.pub-author-details .pub-full { display:none; }
+.pub-author-details[open] .pub-short { display:none; }
+.pub-author-details[open] .pub-full { display:inline; }
+.pub-expand { color:var(--pub-accent); font-weight:600; margin-left:.2rem; white-space:nowrap; }
+.pub-venue-full { font-size:.79rem; line-height:1.5; color:var(--pub-muted); margin:.33rem 0 0; font-style:italic; }
+.pub-links { display:flex; flex-wrap:wrap; gap:.42rem; margin-top:.63rem; }
+.pub-links a { display:inline-block; color:var(--pub-accent) !important; text-decoration:none !important; font-size:.73rem; font-weight:600; padding:.22rem .55rem; line-height:1.45; border:1px solid var(--pub-border); border-radius:5px; background:transparent; transition:border-color .16s ease, background .16s ease; }
+.pub-links a:hover { background:var(--pub-soft); border-color:var(--pub-accent); }
+.pub-footnote { font-size:.77rem; color:var(--pub-muted); margin:1.5rem 0 0; }
+.pub-footnote span { display:inline-block; margin-right:1rem; }
+@media (max-width:600px) { .pub-section-title { font-size:1.25rem !important; } .pub-title { font-size:1rem !important; } .pub-item { padding:1.05rem 0 1.18rem; } }
+
+.pub-author-details summary:focus-visible, .pub-links a:focus-visible,
+.pub-title a:focus-visible { outline:2px solid var(--pub-accent); outline-offset:3px; border-radius:3px; }
+@media (prefers-reduced-motion: reduce) { .pub-links a { transition:none; } }
