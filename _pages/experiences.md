@@ -20,12 +20,8 @@ Awards
 * [CMU CMLH Fellowship in Generative AI](https://www.cs.cmu.edu/cmlh/), 2025.
 * AMIA Best Student Paper Finalist, 2025.
 * [OpenAI Researcher Access Program](https://openai.com/form/researcher-access-program/), 2025.  
-* CMU GSA Scholarly Project Funding, 2025.
 * [CMU CMLH Translational Fellowship in Digital Health](https://www.cs.cmu.edu/cmlh/), 2023.
-* CMU GSA Conference Scholarship, 2023.
-* NSF Student Travel Award of ICDM, 2022.
 * [CMU PwC Center Presidential Fellowship](https://www.cmu.edu/risk-reg-center/index.html), 2022.
-* Student Scholarship of TheWebConf, 2021.
 * Outstanding Graduate Representative of HUST (Top 1%, 40 out of 6800 in university), 2019.
 * Meritorious Winner of Interdisciplinary Contest of Modeling (Top 9% globally), 2018
 * 1st Prize of China Mathematical Modeling Contest (Top 1% nationwide), 2017
