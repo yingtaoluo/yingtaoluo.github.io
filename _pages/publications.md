@@ -11,7 +11,7 @@ You can also find my articles on [my Google Scholar profile]({{ author.googlesch
 
 ## Research Directions
 
-<div style="max-width: 600px;" markdown="1">
+<div style="max-width: 480px;" markdown="1">
 
 | Research Area | Active Period |
 |:---|:---|
