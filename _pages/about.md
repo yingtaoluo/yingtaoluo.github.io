@@ -15,7 +15,7 @@ My name is Yingtao Luo (Ying-Tao Luo, 罗颖韬). I am a final-year Ph.D. candid
 LLM Post-Training · Generative Retrieval · Personal Agents · Long-Horizon Sequence Learning · Reinforcement Learning
 
 ## Industry Experience
-My work spans personal agent research and production-grade personalized generative retrieval systems. I have approximately two years of industry research experience across Roblox, Microsoft, Alibaba, and RealAI.
+My work spans LLM agents, model training and post-training, and production-grade personalized generative retrieval systems. I have approximately two years of industry research experience across Roblox, Microsoft, Alibaba, and RealAI.
 
 ## Open to Opportunities
 I'm always happy to connect about research collaborations, industry opportunities, startups, or interesting ideas!
