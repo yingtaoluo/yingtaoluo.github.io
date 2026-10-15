@@ -1,0 +1,7 @@
+{%- assign name = include.name -%}
+{%- assign formatted = name | escape | replace: '*', '<sup title="Equal contribution">*</sup>' -%}
+{%- if name contains 'Yingtao Luo' or name contains 'Ying-Tao Luo' -%}
+<strong class="pub-me">{{ formatted }}</strong>
+{%- else -%}
+{{ formatted }}
+{%- endif -%}

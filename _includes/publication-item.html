@@ -1,0 +1,61 @@
+{% assign p = include.paper %}
+<article class="pub-item">
+  <div class="pub-meta">
+    <span class="pub-venue-tag" title="{{ p.venue_full | escape }}">{{ p.venue | escape }}</span>
+    {% if p.type %}<span class="pub-type">{{ p.type | escape }}</span>{% endif %}
+    {% for award in p.awards %}<span class="pub-award">★ {{ award | escape }}</span>{% endfor %}
+  </div>
+  <h3 class="pub-title">
+    {% if p.title_url %}<a href="{{ p.title_url | escape }}" target="_blank" rel="noopener noreferrer">{{ p.title | escape }}</a>
+    {% else %}{{ p.title | escape }}{% endif %}
+  </h3>
+  <div class="pub-authors">
+    {% if p.authors.size > 7 %}
+    <details class="pub-author-details">
+      <summary>
+        <span class="pub-short">
+          {%- for author in p.authors limit:3 -%}
+            {%- unless forloop.first %}, {% endunless -%}
+            {%- include publication-author.html name=author -%}
+          {%- endfor -%}
+          {%- assign me_in_first = false -%}
+          {%- for author in p.authors limit:3 -%}
+            {%- if author contains 'Yingtao Luo' or author contains 'Ying-Tao Luo' -%}
+              {%- assign me_in_first = true -%}
+            {%- endif -%}
+          {%- endfor -%}
+          {%- assign shown_count = 3 -%}
+          {%- unless me_in_first -%}
+            {%- for author in p.authors -%}
+              {%- if author contains 'Yingtao Luo' or author contains 'Ying-Tao Luo' -%}
+                , {% include publication-author.html name=author %}
+                {%- assign shown_count = 4 -%}
+                {%- break -%}
+              {%- endif -%}
+            {%- endfor -%}
+          {%- endunless -%}
+          {%- assign remaining = p.authors.size | minus: shown_count -%}
+          <span class="pub-expand"> · +{{ remaining }} authors ▾</span>
+        </span>
+        <span class="pub-full">
+          {%- for author in p.authors -%}
+            {%- unless forloop.first %}, {% endunless -%}
+            {%- include publication-author.html name=author -%}
+          {%- endfor -%}. <span class="pub-expand">Show less ▴</span>
+        </span>
+      </summary>
+    </details>
+    {% else %}
+      {%- for author in p.authors -%}
+        {%- unless forloop.first %}, {% endunless -%}
+        {%- include publication-author.html name=author -%}
+      {%- endfor -%}.
+    {% endif %}
+  </div>
+  <p class="pub-venue-full">{{ p.venue_full | escape }}</p>
+  {% if p.links %}
+  <div class="pub-links">
+    {% for link in p.links %}<a href="{{ link.url | escape }}" target="_blank" rel="noopener noreferrer">{{ link.label | escape }}</a>{% endfor %}
+  </div>
+  {% endif %}
+</article>
