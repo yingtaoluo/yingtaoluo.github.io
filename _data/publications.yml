@@ -86,6 +86,9 @@
     - Lisa Hightow-Weidman
     - Shayok Chakraborty
     - Yushun Dong
+    links:
+    - label: Paper
+      url: https://aclanthology.org/2025.findings-ijcnlp.40.pdf
   - title: Benchmarking Waitlist Mortality in Heart Transplantation Through Time-to-Event Modeling using New Longitudinal
       UNOS Dataset
     venue: AMIA 2025
