@@ -95,7 +95,6 @@
     - Carlos Martinez
     - Reza Skandari
     - Arman Kilic
-    type: Symposium
     awards:
     - Best Student Paper Finalist (8/166)
     title_url: https://arxiv.org/pdf/2507.07339
@@ -162,7 +161,6 @@
     - Yingtao Luo
     - Ben Lengerich
     - Eric P Xing
-    type: Symposium
     title_url: https://openreview.net/forum?id=BnKvIn8JKl
     links:
     - label: Paper
