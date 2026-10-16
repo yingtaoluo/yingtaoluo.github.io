@@ -2,7 +2,7 @@
 # An asterisk following a name indicates equal contribution.
 # Papers with >7 authors automatically get a clickable full author list.
 - id: conference
-  title: Conference Proceedings
+  title: Conferences
   papers:
   - title: 'PersonaCUABench: Benchmarking Computer-Use Agents Serving Diverse Personas'
     venue: NAACL 2027
