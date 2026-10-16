@@ -43,6 +43,7 @@
     - Kangyi Zhao
     - Shiyi Du
     - Yubo Li
+    title_url: https://arxiv.org/pdf/2610.21030
     links:
     - label: Paper
       url: https://arxiv.org/pdf/2610.21030
@@ -61,6 +62,7 @@
     - Xiangliang Zhang
     - Vincent Conitzer
     - Carl Kingsford
+    title_url: https://arxiv.org/pdf/2604.25012
     links:
     - label: Paper
       url: https://arxiv.org/pdf/2604.25012
@@ -75,6 +77,7 @@
     - Xijing Wang
     - Yingtao Luo*
     type: Workshop
+    title_url: https://openreview.net/pdf?id=nkt0fG4Y4X
     links:
     - label: Code
       url: https://github.com/Clinical-Copilot/Medical_Deep_Research
@@ -96,6 +99,7 @@
     - Lisa Hightow-Weidman
     - Shayok Chakraborty
     - Yushun Dong
+    title_url: https://aclanthology.org/2025.findings-ijcnlp.40.pdf
     links:
     - label: Paper
       url: https://aclanthology.org/2025.findings-ijcnlp.40.pdf
