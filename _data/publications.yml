@@ -61,6 +61,9 @@
     - Xiangliang Zhang
     - Vincent Conitzer
     - Carl Kingsford
+    links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2604.25012
   - title: 'Medical Deep Research: Orchestrating Large Language Model Agents and Resources for Medical Investigation'
     venue: NeurIPS 2025
     venue_full: NeurIPS 2025 GenAI4Health Workshop.
