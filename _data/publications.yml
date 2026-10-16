@@ -70,6 +70,8 @@
     links:
     - label: Code
       url: https://github.com/Clinical-Copilot/Medical_Deep_Research
+    - label: Paper
+      url: https://openreview.net/pdf?id=nkt0fG4Y4X
   - title: 'LLM-Empowered Medical Patient Communication: A Data-Centric Survey From a Clinical Perspective'
     venue: AACL 2025
     venue_full: Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025).
