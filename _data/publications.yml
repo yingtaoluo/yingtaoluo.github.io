@@ -43,6 +43,11 @@
     - Kangyi Zhao
     - Shiyi Du
     - Yubo Li
+    links:
+    - label: Paper
+      url: https://arxiv.org/pdf/2610.21030
+    - label: Code
+      url: https://github.com/yingtaoluo/Adaptive-Reasoning-Retrieval
   - title: Can Workflow Search Be Amortized? Demonstration-Guided Synthesis of LLM Agent Workflows
     venue: EMNLP 2026
     venue_full: Conference on Empirical Methods in Natural Language Processing (EMNLP 2026).
