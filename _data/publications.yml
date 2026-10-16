@@ -459,7 +459,7 @@
     - label: Paper
       url: https://doi.org/10.1016/j.memsci.2020.118910
 - id: talks
-  title: Invited Talks
+  title: Presentations
   papers:
   - title: 'Learning from Simulated Patient Trajectories: A Sequential Decision-Making Agent for Heart Transplantation'
     venue: INFORMS Annual Meeting 2025
@@ -484,6 +484,7 @@
     - Carlos Martinez
     - Reza Skandari
     - Arman Kilic
+    type: Poster
     links:
     - label: Abstract
       url: https://github.com/yingtaoluo/yingtaoluo.github.io/blob/master/_publications/MLHC2025.pdf
