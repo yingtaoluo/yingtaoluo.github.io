@@ -35,7 +35,8 @@ Events
   * NeurIPS 2022-2026 (Top Reviewer in 2026)
   * NeurIPS ML4PS Workshop 2021-2025
   * NeurIPS ML4Mol Workshop 2021
-  * ICLR 2022-2026 (Highlighted Reviewer in 2022)
+  * ICLR 2022-2027 (Highlighted Reviewer in 2022)
+  * IJCAI 2027
   * WWW 2023
   * WWW AI4TS Workshop 2025
   * KDD 2023-2026 (Excellent Reviewer in 2025)
